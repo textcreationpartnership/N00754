@@ -114,8 +114,9 @@
    <text xml:lang="eng">
       <front>
          <div type="quotations">
-            <pb facs="tcp:000908_0000_0FACA06A78F62740"/>
-            <pb facs="tcp:000908_0001_0FACA064C48A75D8" rendition="simple:additions"/>
+            <pb facs="unknown:000908_0000_0FACA06A78F62740"/>
+            <pb facs="unknown:000908_0001_0FACA064C48A75D8"
+                rendition="simple:additions"/>
             <q>
                <bibl>
                   <hi>Acts 17.18.</hi>
@@ -148,7 +149,8 @@
             </q>
          </div>
          <div type="title_page">
-            <pb facs="tcp:000908_0002_0FACA06550A3DB70" rendition="simple:additions"/>
+            <pb facs="unknown:000908_0002_0FACA06550A3DB70"
+                rendition="simple:additions"/>
             <p>JESUS The Crucifyed Man, THE Eternal Son of God, OR, AN ANSWER TO An <hi>Anathema</hi> or Paper of Excommunication, of <hi>John Wats,</hi> en<g ref="char:EOLhyphen"/>tituled, Points of Doctrine preached &amp; aſſerted by <hi>William Davis.</hi>
             </p>
             <p>Wherein the Myſtry of Chriſts Deſcen<g ref="char:EOLhyphen"/>tion, Incarnation and Crucifixion is Unfolded.</p>
@@ -156,13 +158,15 @@
             </p>
          </div>
          <div type="explanation_of_contents">
-            <pb facs="tcp:000908_0003_0FACA065E23D2AD0" rendition="simple:additions"/>
-            <pb facs="tcp:000908_0004_0FACA066A80861F0" rendition="simple:additions"/>
+            <pb facs="unknown:000908_0003_0FACA065E23D2AD0"
+                rendition="simple:additions"/>
+            <pb facs="unknown:000908_0004_0FACA066A80861F0"
+                rendition="simple:additions"/>
             <head>JES<g ref="char:V">Ʋ</g>S the Crucified Man The Eternal Son of God. OR, An Anſwer to an <hi>Anathema</hi> or Paper of Excommunication, of <hi>John Wats,</hi> entituled, Points of Doctrine preached and aſſerted by William Davis.</head>
             <p>Wherein the Myſtry of Chriſts Deſcen<g ref="char:EOLhyphen"/>tion, Incarnation and Crucifixion is Un<g ref="char:EOLhyphen"/>folded. As alſo, it is made appear by plain Scripture proof, by Teſtimonies of the holy Trinity, Angels and Men (and alſo of the very Devils) Acts of Worſhip done to him, and Miracles that he wrought; and Plain Arguments and Reaſons drawn from thence, That the outward and viſible Perſon or Man <hi>Jeſus of Nazareth,</hi> the Son of the Virgin <hi>Mary,</hi> who ſuffered Death, and dyed upon the Croſs, was (when he did ſo dye) and ſo doth ſtill remain the proper natural and eternal Son of the living God, and ſecond Perſon in the ſacred Trinity, &amp; conſequently true G<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>d, (tho' not the Fa<g ref="char:EOLhyphen"/>ther) And the Objections anſwered that are commonly brought againſt this Do<g ref="char:EOLhyphen"/>ctrine. In which Anſwers are explained divers Scriptures relating to the Perſon, Office, Body, Fleſh and Blood of Chriſt.
-<pb facs="tcp:000908_0005_0FACA067646C2C48"/>
+<pb facs="unknown:000908_0005_0FACA067646C2C48"/>
 As alſo, what is to be underſtood by that adorable Expreſſion [<hi>Godhead</hi>] with ſeveral other uſeful and pertinent things for ſuch a Work.</p>
             <p>To which is added, A <hi>Corollary,</hi> ſhewing <hi>John Wat</hi>'s Contradictions, Errors and and Blaſphemies. As alſo, <hi>George Keith</hi> Diſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
@@ -175,13 +179,13 @@ As alſo, what is to be underſtood by that adorable Expreſſion [<hi>Godhead</
                <hi>Printed for the Author, in the Year</hi> 1700.</p>
          </div>
          <div type="preface">
-            <pb facs="tcp:000908_0006_0FACA0682293B710"/>
+            <pb facs="unknown:000908_0006_0FACA0682293B710"/>
             <head>THE Preface to the Reader:</head>
             <opener>
                <salute>Friendly Reader;</salute>
             </opener>
             <p>IT is a Maxim that is granted, not only by all Reformed Chriſtians, but alſo by the very Heathen Philoſo<g ref="char:EOLhyphen"/>phers themſelves, <hi>That Truth is the brighteſt Gem in the Regal Diodem, and that ſhe ſets her ſelf off in her own Attire, with a far more ſhining Luſter than all the Praiſes of Poets, or the extravagant and miſ-applyed Commendations of diſſembling and hypocritical Paraſites.</hi> And I could heartily wiſh it was the Genius of every mans Diſpoſition to thirſt after Truth &amp; Knowledge more &amp; more, and to place a more than ordinary felicity in the en<g ref="char:EOLhyphen"/>joyment of it. It is indeed a noble Prize, and always rewards its adorers with laſting and ineſtimable bleſſings. And although ſo few are found to be Poſſeſſors hereof, yet the want of it ſtains
-<pb facs="tcp:000908_0007_0FACA068E0E4D660"/>
+<pb facs="unknown:000908_0007_0FACA068E0E4D660"/>
 &amp; ſullies the Dignity of humane Nature, but in whomſoever it doth predominate it reſtrains all evil Paſſions of the Soul, that promp him to unreaſonable actions, bridles and curbs thoſe Appetites that ſolicite <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> 
@@ -190,7 +194,8 @@ As alſo, what is to be underſtood by that adorable Expreſſion [<hi>Godhead</
                </gap>njuſtice, baniſhes all that inordinate fear that enſlaves the Soul: It encourages all thoſe noble Seeds of Juſtice and Fortitude that lead a man on to an entire conqueſt over his Luſts and diſtempered Affections; and it inſtructs a man to diſcharge his Function, and exerciſe his Power in a due and regular way. It is that that dignifies mans Nature, and enables to a degree of Ho<g ref="char:EOLhyphen"/>nour much above the inferior Creatures. This doth illuſtrate a mans Name more than the Trophies of his Anceſtors, or the Succeſs of his indiſputable Courage and Bravery, or what ever other brave Qualifications in famous humane Arts and Sciences, as well as Tongues and Languages he may or hath attained unto.</p>
          </div>
          <div type="introduction">
-            <pb facs="tcp:000908_0008_0FACA069A8B6C290" rendition="simple:additions"/>
+            <pb facs="unknown:000908_0008_0FACA069A8B6C290"
+                rendition="simple:additions"/>
             <head>The Introduction.</head>
             <p>NOw this (<hi>viz.</hi> Truth) being the ſubject of the following Diſcourſe, that alſo by virtue thereof the contrary to it may clearly appear, ſo by that means the Truth may ſhine forth in its own luſtre, is the end of this my writing. And to that end I may make an orderly Introduction, I ſhall briefly give the Reader an account of the Reaſon of it.</p>
             <p>Through Grace, from my Youth, my Studies have been bent that way, <hi>viz.</hi> to ſeek after Truth, ſince that time that God in his infinite Love was pleaſed to reſtrain me from my youthful Vanities, ſeveral ſorts of which I was naturally <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -198,9 +203,10 @@ As alſo, what is to be underſtood by that adorable Expreſſion [<hi>Godhead</
                </gap>rone unto, being by nature a Child of Wrath as well as others. But theſe in <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>reat meaſure God gave me Victory over
-<pb facs="tcp:000908_0009_0FACA06BA3541140" rendition="simple:additions"/>
+<pb facs="unknown:000908_0009_0FACA06BA3541140"
+                   rendition="simple:additions"/>
 when I was about 18 or 20 years of Age. Having formerly had my Con<g ref="char:EOLhyphen"/>verſation in the <hi>Church of England,</hi> being trained up according to the Rules of the fame, and being a diligent hearer of their Miniſters, having at that time but a weak capacity to judge in matters of Doctrine, whether or no in that caſe they were right or wrong; I obſerved the looſeneſs and prophanity both of Prieſts and People too general amongſt them. This drove me from them. And the <hi>Quakers</hi> in that time, that exceeded in Life and Converſation, being much more civilized, and given to Sobriety; this their good Converſation prevailed upon me, wherefore I joyned my ſelf with them. And having walked with them in that way about 13 or 14 years, in which ſpace of time I did conſider of ſome Principles in Religion. And thoſe which came moſt particularly under my Conſideration, was the <hi>Eternal Judgment</hi> and the <hi>Reſurrection of the Dead</hi>; which things, by my moſt diligent ſearch in
-<pb facs="tcp:000908_0010_0FACA06C130A11B8"/>
+<pb facs="unknown:000908_0010_0FACA06C130A11B8"/>
                <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> 
@@ -255,7 +261,7 @@ when I was about 18 or 20 years of Age. Having formerly had my Con<g ref="char:E
                </gap>actiſe the ſacred Ordinance of <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> By this means, to wit, by my
-<pb facs="tcp:000908_0011_0FACA06CA43CF270"/>
+<pb facs="unknown:000908_0011_0FACA06CA43CF270"/>
 and practiſing theſe ſacred Ordinance<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> I incured the Malignity and hatred <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -313,7 +319,7 @@ and practiſing theſe ſacred Ordinance<gap reason="illegible" resp="#PDCC" ext
                   </gap>
                </hi> have rejected us.</p>
             <div type="propositions">
-               <pb facs="tcp:000908_0012_0FACA06D62526C38"/>
+               <pb facs="unknown:000908_0012_0FACA06D62526C38"/>
                <head>Propoſi<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ions of Faith that <hi>John Hart,</hi> as the chief of the Monethly Meeting of the <hi>Keithian Quakers</hi> held at <hi>Phillp James</hi>'s in <hi>Philadel<g ref="char:EOLhyphen"/>phia</hi> the <hi>4</hi>th day of the <hi>3</hi>d Month, <hi>1694.</hi> preſſed to ſome of their fellow Members to anſwer to <hi>Yea</hi> or <hi>Nay.</hi>
@@ -326,7 +332,7 @@ and practiſing theſe ſacred Ordinance<gap reason="illegible" resp="#PDCC" ext
                <p n="6">6. Whether we ſhall put Water Baptiſm in practice, yea or nay?</p>
                <p n="7">7. Whether we have the Spirit of Diſcerning, that we can know a man without words and works, yea or nay?</p>
                <p n="8">8. Whether we can own the Scrip<g ref="char:EOLhyphen"/>tures
-<pb facs="tcp:000908_0013_0FACA06E20F5AEE0"/>
+<pb facs="unknown:000908_0013_0FACA06E20F5AEE0"/>
 in any other ſence to be the Wor<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> of God, than the wrirten Word, yea o<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -334,16 +340,16 @@ in any other ſence to be the Wor<gap reason="illegible" resp="#PDCC" extent="1 
                   </gap> nay?</p>
                <p>From all which let the <hi>Reader</hi> Note<g ref="char:punc">▪</g> if I had anſwered in the <hi>Affirmative</hi> Yea<g ref="char:punc">▪</g> to the 2<hi>d,</hi> 3<hi>d,</hi> 6<hi>th</hi> and 8<hi>th,</hi> and in the <hi>Ne<g ref="char:EOLhyphen"/>gative,</hi> Nay, to the 1<hi>ſt,</hi> 4<hi>th,</hi> 5<hi>th</hi> &amp; 7<hi>th</hi> Propoſitions, this had been a ſufficient Proof to them that we were unſound in the Faith. For they did not then believe, nor now neither (as I know of) that Water Baptiſm muſt be put in practice; and they thought alſo, that the Light within, or Word in the heart, was to be preferred before the written Word. <hi>Note</hi> further, their profound Myſtick or Doctor <hi>John Hart</hi> did pretend to know mens hearts without words or works.</p>
                <p>But to proceed, I ſtill continued dili<g ref="char:EOLhyphen"/>gent in the ſearch of ſacred Scriptures, in which ſearch God was pleaſed to en<g ref="char:EOLhyphen"/>lighten my Underſtanding ſo far, (and principally from two particular places, <hi>Joh.</hi> 6.51. 1 <hi>Cor.</hi> 15.47. with reſpective
-<pb facs="tcp:000908_0014_0FACA06EE159A4B8"/>
+<pb facs="unknown:000908_0014_0FACA06EE159A4B8"/>
 the Perſon of the Son of God, that I and my Friend <hi>Tho. Rutter</hi> eſpecially (with whom I did often converſe, and he with me, being helpful to one another) did clearly perceive, that not only the <hi>Quakers</hi> were wrong from the beginning, with reſpect to their Principle relating to the Son of God, in <hi>W. Penn</hi>'s aſſerting, <hi>That the outward Perſon was not Gods proper Son,</hi> and calling him an <hi>Impoten<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap> Creature,</hi> and others agreeing with him; but alſo <hi>Geo. Keith,</hi> &amp; many others before him, that had oppoſed the <hi>Quakers,</hi> were not right themſelves. And this gave us yet further occaſion to ſearch yet more narrowly, not only the ſacred Scriptures, for our In<g ref="char:EOLhyphen"/>ſtruction, but alſo the <hi>Quakers</hi> Books for our ſatisfaction, wherein we found that the <hi>Quakers</hi> did abſolutely deny that the <hi>outward Perſon, Jeſus,</hi> was Gods proper Son, calling him, <hi>a Body, a Garment, a Vail.</hi> And becauſe <hi>G. K.</hi> did uſe the ſame Diſtinctions and Terms, both in preaching and writing, at laſt, not<g ref="char:EOLhyphen"/>withſtanding his Difference with the
-<pb facs="tcp:000908_0015_0FACA06FA02DBB60"/>
+<pb facs="unknown:000908_0015_0FACA06FA02DBB60"/>
                   <hi>Quakers,</hi> we could in reaſon, no other<g ref="char:EOLhyphen"/>wiſe conclude, but that in the ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>n point, about the <hi>Perſon of Chriſt,</hi> and the <hi>Reſurrection,</hi> he was one with the <hi>Quakers</hi> (as afterwards will appear.) Now becauſe that we preſſed in Diſ<g ref="char:EOLhyphen"/>courſe, and ſometimes in preaching, the contrary Doctrine, <hi>viz. That the out<g ref="char:EOLhyphen"/>ward Perſon, Jeſus of</hi> Nazereth, <hi>was ſo far from being an Impotent Creature, that he was Gods proper and eternal Son, and conſequently he that the Prophet calls the mighty God.</hi> Which being aſſerted by <hi>T. Rutter</hi> in one of the <hi>Keithian Quakers</hi> Yearly Meetings, they called him a Blaſphemer, and rendered it Hereſie; And my ſelf they compared, in one of their yearly Meeting Papers to <hi>Simon Magus</hi> the witch, becauſe I continued to preach Chriſt (in imitation of G. K. as they rendered it) as <hi>Simon Magus</hi> did in imitation of the Apoſtles.</p>
                <p>But they object againſt us, <hi>Have all thoſe wiſe and learned Men, and eſpecially ſuch as</hi> G. K. <hi>been deceived, and ſhould the
-<pb facs="tcp:000908_0016_0FACA070606A2FF0"/>
+<pb facs="unknown:000908_0016_0FACA070606A2FF0"/>
 Truth be diſcovered to a Turner &amp; a Smith.</hi> And they brand us of pretending to Im<g ref="char:EOLhyphen"/>mediate Revelation in the point, becauſe we ſay, <hi>God hath revealed the Truth unto us by his Word,</hi> to wit, the holy Scriptures, wiſtth the gracious aſſiance of his good Spirit, in the enlightning of our Under<g ref="char:EOLhyphen"/>ſtandings in the ſame. But thus it is, as the Apoſtle ſaith, 1 <hi>Cor.</hi> 1.26, 27, 2<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>. <hi>For you ſee your calling Brethren, how that not many wiſe men after the fleſh, not many mighty, not many Noble are called; but God hath choſen the fooliſh things of the World to confound the wiſe; and God hath choſen the weak things of the World to con<g ref="char:EOLhyphen"/>found the things that are mighty; and baſe things of the World, and things which are deſpiſed hath God choſen, yea, and things which are not, to bring to nought things that are.</hi>
@@ -355,27 +361,27 @@ Truth be diſcovered to a Turner &amp; a Smith.</hi> And they brand us of preten
                   </gap>zed P<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ople, to whom
-<pb facs="tcp:000908_0017_0FACA07124E4B7A8"/>
+<pb facs="unknown:000908_0017_0FACA07124E4B7A8"/>
                   <hi>John Wats,</hi> as Paſtor, preached and ad<g ref="char:EOLhyphen"/>miniſtred the Ordinances. I ſought to come acquainted with them, and going amongſt them, was not only well re<g ref="char:EOLhyphen"/>ceived as a hearer, but alſo as a Preacher, firſt and laſt for the ſpace of three years, and upwards, before I joyned my ſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>f with them in Communion, which after<g ref="char:EOLhyphen"/>wards, through my own inclination to perform the Ordinance of Chriſt, and their importunity, I did it. Now after I had thus joyne<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> my ſelf in Communion with them, I continued, as I had former<g ref="char:EOLhyphen"/>ly done, to illuſtrate and ſet forth the excellency of Chriſts Sufferings, and the Nobility and Majeſty of his Perſon, al<g ref="char:EOLhyphen"/>ledging and proving, <hi>That he who ſuffered and dyed on the Croſs, was Gods proper Son, who came from Heaven</hi>; having a zeal againſt the contrary Doctrine of W. P. who affirmed, <hi>That the outward Perſon was not Gods proper Son.</hi> And that alſo, as I inſiſted upon this Doctrine, I did teſtifie &amp; declare, <hi>That the outward Perſon was not any weak and impotent Creature,</hi> as
-<pb facs="tcp:000908_0018_0FACA071E2CE5AC8"/>
+<pb facs="unknown:000908_0018_0FACA071E2CE5AC8"/>
 W. P. affirmed he was, but a mighty Saviour, a potent Redeemer, and that alſo the Scripture did declare of him, That he was a God, and yet not the Father, according to theſe places, <hi>Iſa.</hi> 9.6. <hi>Joh.</hi> 1.1. <hi>John</hi> 20.28. <hi>Rom.</hi> 9.<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>. <hi>Heb.</hi> 1.8. 1 <hi>Tim.</hi> 2.3. <hi>cap.</hi> 3.16. <hi>cap.</hi> 4 10. <hi>cap.</hi> 1.1. <hi>Tit.</hi> 1.3. 1 <hi>John</hi> 3.16. <hi>cap.</hi> 5.20. I thus in ſincerity of heart endeavouring to demonſtrate the danger of the <hi>Quakers</hi> Doctrine, which I had a great experience of by a careful and diligent ſearch in their moſt principal Authors, that by underſtanding their Errors, I might be able to ſhew the Truth, according to Scripture (as God had been graciouſly pleaſed to make it known unto me) even to thoſe People who under a pretence or cloak did pre<g ref="char:EOLhyphen"/>tend to be at great odds with the <hi>Quakers</hi> about theſe Points, accounting them very erroneous for holding ſuch things; but altho' they did ſo pretend, yet I per<g ref="char:EOLhyphen"/>ceived ſoon after, that they were on<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> with the Quakers about the outward
-<pb facs="tcp:000908_0019_0FACA072A43345E0"/>
+<pb facs="unknown:000908_0019_0FACA072A43345E0"/>
 Perſon and his Sufferings, and therefore I laboured the more with them to prove by Scripture, <hi>That the outward Perſon was Gods proper Son,</hi> bringing theſe for Rea<g ref="char:EOLhyphen"/>ſons, 1<hi>ſt.</hi> Becauſe he came down from Heaven, and, 2<hi>d.</hi> Becauſe he humbled himſelf unto his Father, by way of ſub<g ref="char:EOLhyphen"/>jection as a Son. And this I did, as a Brother, to inform them, that they might not fall into that Error themſelves which they looked upon in the Quakers to be a <hi>dangerous Hereſie.</hi>
                </p>
                <p>Now long before this, and before I joyn'd my ſelf with them in Communion <hi>J. W.</hi> had writ ſomething in oppoſition to this Doctrine, affirming, <hi>That the outward Perſon Jeſus, that ſuffered upon the Croſs, was a weak, impotent &amp; finite Creature,</hi> exactly imitating W. P. as before.</p>
                <p>This, I and my Friend <hi>T. Rutter</hi> ha<g ref="char:EOLhyphen"/>ving a ſight of, we accounted it Blaſ<g ref="char:EOLhyphen"/>phemous, and reproachful to Chriſt Jeſus. But however, we laboured to inform J. W. in meekneſs, of his danger<g ref="char:EOLhyphen"/>ous Error, as well as Blaſphemy, while
-<pb facs="tcp:000908_0020_0FACA073630AA460"/>
+<pb facs="unknown:000908_0020_0FACA073630AA460"/>
 at laſt he complyes with us, and acknow<g ref="char:EOLhyphen"/>ledgeth his fault: This we hoped was real in him. Upon which ſuppoſition that he ſaw his Error, and had really recanted it, by his importunity I joyned my ſelf in Church fellowſhip with him, and the reſt belonging to that Meeting. But to return, I ſtill continuing to preach and aſſert among them, <hi>That he that dyed and ſuffered upon the Croſs for the ſins of the World, was no impotent, weak nor finite Creature, but one that was a mighty God</hi> (as the Prophet ſtiled him when he was a Child, <hi>Iſa.</hi> 9.7.) and yet not God the Father.</p>
                <p>And now, to requite me for all my love and labour amongſt them, <hi>J. Wats</hi> he ſets his wits on work (becauſe he perceived this Doctrine reflected much upon his Ignorance, and becauſe alſo he could not endure to be out-done by ano<g ref="char:EOLhyphen"/>ther, he being the Paſtor) to lay a foun<g ref="char:EOLhyphen"/>dation for Oppoſition (that he might have occaſion to rid me out of the Church) he confidently calls back again
-<pb facs="tcp:000908_0021_0FACA074C551C548"/>
+<pb facs="unknown:000908_0021_0FACA074C551C548"/>
 what before he had acknowledged to be Error, and juſtifies it again for Truth, affirming a new (in a ſecond Manuſcript) <hi>That Chriſt was an impotent weak and finite Creature!</hi> as tho' he was reſolved to be the <hi>Quakers</hi> Advocate herein. And now he begins to ſeek an occaſion againſt me, that if poſſible he might alienate the <gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>fections of the People from me, and ſo to put me to ſilence, leſt I ſhould fur<g ref="char:EOLhyphen"/>ther diſcover his Ign<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -417,7 +423,7 @@ what before he had acknowledged to be Error, and juſtifies it again for Truth, 
                   </gap> willing to ſubmit i<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> I failed to do
-<pb facs="tcp:000908_0022_0FACA074E15CC198"/>
+<pb facs="unknown:000908_0022_0FACA074E15CC198"/>
 it. But this Tyrannical man would yeild to no Chriſtian Moderation nor Reaſon, being like to thoſe that would neither enter the Kingdom of Heaven themſelves, nor ſuffer thoſe that would; and like to the Tyrant <hi>Procrust<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>s,</hi> that would fit every one to his own Bed, by either ſtretching them out, or chopping them off. But J. W. perceiving that I would not deſiſt from preaching againſt that erroneous Doctrine of Chriſts being an <hi>impotent Creature,</hi> and proving the contrary to be a great Goſpel Truth, he proceeds to frame a Paper of Excommu<g ref="char:EOLhyphen"/>nication, an <hi>Anathem<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -438,21 +444,21 @@ it. But this Tyrannical man would yeild to no Chriſtian Moderation nor Reaſon,
                   </gap> two mentioned before (till after <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> had thus unchriſtianly acted by
-<pb facs="tcp:000908_0023_0FACA075A3FC5378"/>
+<pb facs="unknown:000908_0023_0FACA075A3FC5378"/>
 their <hi>An<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>thema</hi> or Curſe. And then they poſt up and ſend out their Papers throughout the Country of <hi>Pennſilvania</hi> and ſome into <hi>Europe,</hi> making a hideous and doleful Noiſe, terrifying &amp; fearing the Ignorant where-ever they come, and all on purpoſe to hinder Worſhip done to the Man Chriſt Jeſus, and to defame me his poor Servant, who pleads for it. But this is my comfort, and that which bears up my head over all theſe ſwelling and turbulent Waves of humane Malig<g ref="char:EOLhyphen"/>nity, becauſe Chriſt hath promiſed unto ſuch a great Reward, that ſuffer for his Names ſake.</p>
                <p>After all this I ſought for juſtice, by making a Chriſtian Appeal to a yearly Meeting of <hi>Baptiſts,</hi> held in <hi>Philadelphia</hi> the 25th of <hi>Sept.</hi> 1698. but becauſe <hi>Jo. Wats</hi> was chief Doctor and Ruler in that Meeting alſo, I could have no hearing at all, but (they being favour'd by the <hi>Qua<g ref="char:EOLhyphen"/>ker</hi> Magiſtrates) they treated me with threats of Impriſonment, <hi>&amp;c.</hi>
                </p>
                <p>After this, <hi>April</hi> 13. 1699. <hi>Jo. Wats</hi>
-                  <pb facs="tcp:000908_0024_0FACA076681AD498"/>
+                  <pb facs="unknown:000908_0024_0FACA076681AD498"/>
 and ſome of his Friends gave me a meet<g ref="char:EOLhyphen"/>ing at <hi>R. Wanſells,</hi> to <gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>eat of terms of agreement, where, inſtead of agreeing upon terms of a general <hi>meeting</hi>
                   <g ref="char:punc">▪</g> he made the difference yet greater (if poſſible) be<g ref="char:EOLhyphen"/>twixt us, where, in the hearing of divers Witneſſes there preſent, he juſtified this ſaying of <hi>Evan Morgan</hi> (wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ch he gave under his hand, <hi>That Chriſt, as Man, muſt not be worſhipped.</hi> And as for coming to agreement about a general Meeting, he would have none but ſuch as were accor<g ref="char:EOLhyphen"/>ding to his own mind &amp; framing, with<g ref="char:EOLhyphen"/>out any regard had to juſtice and equity relating to me his Antagoniſt. For be<g ref="char:EOLhyphen"/>cauſe he would by no means yeild that I ſhould have my liberty at ſuch a general Meeting to anſwer for my ſelf to the ſup<g ref="char:EOLhyphen"/>poſed Crimes he had laid to my charge; but on the contrary, he would firſt bring his Evidences to prove what he had charged againſt me, to be true (altho' his evidences were not legal, being partial men, and parties on his ſide) &amp; to judge
-<pb facs="tcp:000908_0025_0FACA077204E0118"/>
+<pb facs="unknown:000908_0025_0FACA077204E0118"/>
 and condemn me by bare evidence, and af<gap reason="illegible" resp="#PDCC" extent="3 letters">
                      <desc>•••</desc>
                   </gap>wards hear me. Hence we did yeild to refer the deciſion of the management of ſuch a Meeting, to the judgment of 4 or 6 impartial Men indifferently choſen out of the baptized People; but J. W. would have no <hi>Baptiſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -471,7 +477,7 @@ and condemn me by bare evidence, and af<gap reason="illegible" resp="#PDCC" exte
                   <hi>S<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>eeds</hi> were as bad as <hi>Indians</hi> or <hi>Hea<g ref="char:EOLhyphen"/>thens.</hi> Wherefore the Meeting broke up
-<pb facs="tcp:000908_0026_0FACA077E24D43E8"/>
+<pb facs="unknown:000908_0026_0FACA077E24D43E8"/>
 and nothing was concluded. Now after this I made my application to another <hi>Baptized Chu<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>ch,</hi> according to the method preſcribed in ſuch a caſe by an Aſſembly of Elders, <hi>&amp;c.</hi> of thoſe Churches, held in <hi>London,</hi> 1692. Now this Church to whom I made my application, ſent Meſ<g ref="char:EOLhyphen"/>ſengers to <hi>J. Wats</hi> to deſire him to <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -496,7 +502,7 @@ and nothing was concluded. Now after this I made my application to another <hi>B
                   </gap> deſign to fruſtrateours, on the morrow <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>t <hi>Philadelphia.</hi> But nevertheleſs, we
-<pb facs="tcp:000908_0027_0FACA078A1AF1BA0"/>
+<pb facs="unknown:000908_0027_0FACA078A1AF1BA0"/>
 had a Meeting, to which a conſiderable company of People of moſt ſorts, did re<g ref="char:EOLhyphen"/>ſort, whereby (<hi>by Gods Grace</hi>) I gave general ſatisfaction concerning the <hi>things in Controverſie.</hi> Now J. W. &amp; his <hi>Church of England men, Presbyterians &amp; Indepen<g ref="char:EOLhyphen"/>dents,</hi> being met at <hi>Philadelphia,</hi> on the m<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>rrow, to judge and condemn me yet once again. We went down to ſee if they would admit o<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -523,7 +529,7 @@ had a Meeting, to which a conſiderable company of People of moſt ſorts, did r
                         <desc>•</desc>
                      </gap>tical</hi>
                   <g ref="char:punc">▪</g>
-                  <pb facs="tcp:000908_0028_0FACA07962675F80"/>
+                  <pb facs="unknown:000908_0028_0FACA07962675F80"/>
 they get together on the morrow, in a <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ipling <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -540,7 +546,7 @@ they get together on the morrow, in a <gap reason="illegible" resp="#PDCC" exten
                      </gap>ho Clayton</hi> Prieſt of the <hi>Church of En<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>land<g ref="char:punc">▪</g> Presbyte<g ref="char:EOLhyphen"/>rian, Independent, Quaker,</hi> as alſo the ſhattering <hi>Keithian Quaker</hi> do all migh<g ref="char:EOLhyphen"/>tily combine together againſt the <hi>outward and viſible Perſon Jeſus Chriſt</hi> as the old Hereticks in former Ages have done, as the Reader may ſee in the latter end of this Treatiſe. For indeed the <hi>outward Perſon Jeſus</hi> hath been the But-mark of the old Serpent in all Ages, at which his Archers have ſhot their Arrows, as theſe
-<pb facs="tcp:000908_0029_0FACA07A22270AC0"/>
+<pb facs="unknown:000908_0029_0FACA07A22270AC0"/>
 before-mentioned have done. But is it not ſtrange, that in this our Age of pro<g ref="char:EOLhyphen"/>feſſed <hi>
                      <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -560,7 +566,7 @@ before-mentioned have done. But is it not ſtrange, that in this our Age of pro<
                   </gap>h; but bleſſed be God it is for his own Sons ſake, which is our joy.</p>
                <p>But is it not matter of Admiration that <hi>J Wats</hi> and his party<g ref="char:punc">▪</g> 
                   <hi>Presbyterian, Inde<g ref="char:EOLhyphen"/>pendent, Th. Clayton,</hi> Prieſt of the <hi>Church of England,</hi> and <hi>Keithian Quaker,</hi> ſhould not only cavil and quarrel with me and others, but condemn us for Hereticks, and the Doctrine we hold for Hereſie.
-<pb facs="tcp:000908_0030_0FACA07AE1006CE0"/>
+<pb facs="unknown:000908_0030_0FACA07AE1006CE0"/>
 Whereas whenever they con<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>end againſt the <hi>Quaker,</hi> and would prove the <hi>Quakers</hi> to be Hereticks, they are forced to e<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -585,7 +591,7 @@ Whereas whenever they con<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      </gap>tive Hereſie</hi>) a paſſage out of <hi>Sacrates Hiſt. Eccl. lib</hi> 7. <hi>cap.</hi> 22. wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>re he tells, that it was writ in the antient Copies, <hi>Every Spirit that ſeperateth Jeſus from God, is not of God.</hi> And the ſaid Author
-<pb facs="tcp:000908_0031_0FACA07BA44E6F00"/>
+<pb facs="unknown:000908_0031_0FACA07BA44E6F00"/>
 obſerves that this Text, and other parts of this Epiſtle, <hi>were altered by thoſe who would ſeperate the D<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>vinit<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -611,7 +617,7 @@ obſerves that this Text, and other parts of this Epiſtle, <hi>were altered by 
                <p>But when affirm, that Chriſt or the Word was made fleſh p<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>operly, this they condem as a Hereſie. And yet when <hi>Dr. Lancaſter</hi> propounds this Query to the
-<pb facs="tcp:000908_0032_0FACA07D2C58F378"/>
+<pb facs="unknown:000908_0032_0FACA07D2C58F378"/>
                   <hi>Quakers, Whether the Word was made fleſh in ſuch <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>iſe, that he was as truly Man as he was God? or whether he took it upon him as a Garment or vail?</hi> The <hi>Keithian Quaker</hi> (as a ch<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -625,7 +631,7 @@ obſerves that this Text, and other parts of this Epiſtle, <hi>were altered by 
                   <hi>Example</hi> 3. When the <hi>Quaker</hi> affirms, <hi>That Jeſus Chriſt is the moſt high God, and there is but one G<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>d, and that the outward and viſible Perſon was not God.</hi> This the <hi>Church of England</hi> condemns for Hereſie in the <hi>Quakers, Snake in the graſs, p.</hi> 118. Their Reaſons are, 1<hi>ſt.</hi> Becauſe this muſt
-<pb facs="tcp:000908_0033_0FACA07D4166E300"/>
+<pb facs="unknown:000908_0033_0FACA07D4166E300"/>
 needs be <hi>Sociniſm,</hi> which is to deny the outward Perſon to be God. 2<hi>ly.</hi> If Chriſt be God, and yet but one ſingle and indi<g ref="char:EOLhyphen"/>vided Eſſence in the Godhead, it muſt neceſſarily follow<g ref="char:punc">▪</g> that God the Father was incarnate, and dyed, and Chriſt was his own Father, to whom he pray'd upon the Croſs. But when we affi<gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>, <hi>That Jeſus Chriſt, the outwa<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -636,7 +642,7 @@ needs be <hi>Sociniſm,</hi> which is to deny the outward Perſon to be God. 2<h
                </p>
                <p>
                   <hi>Example</hi> 4. The <hi>Quakers</hi> are blamed for denying <hi>three Perſons before Chriſt was
-<pb facs="tcp:000908_0034_0FACA07DE75440A8"/>
+<pb facs="unknown:000908_0034_0FACA07DE75440A8"/>
 born<g ref="char:punc">▪</g> Snake in the graſs<g ref="char:punc">▪</g> p.</hi> 119. I am alſo condemned for a Heretick, for affirming, <hi>God the Father &amp; God the Son were diſtinct Perſons from <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>ternity</hi>
@@ -647,7 +653,7 @@ born<g ref="char:punc">▪</g> Snake in the graſs<g ref="char:punc">▪</g> p.<
                      </gap>akers</hi> cannot endure to hear tell of <hi>God being Co-creator with the Father, or that God had a Father.</hi> Their Reaſons are, 1 <hi>Becauſe this implyes two Gods</hi>; 2. Becauſe <hi>this implyes God had a Father.</hi> And for this they are condemned as <hi>no Chriſtians, Conteſt for Christianity,</hi> becauſe, as is therein alledged, <hi>This is to deny the Son of God as a ſecond Perſon in the Trinity, to have any hand in the Creation of the Worlds, if two Gods are not allowed.</hi> 2. <hi>And that God the Son had a Father.</hi> But when we affirm that God the Son was Co-creator with God, even his Father perſonally diſtinct, for this we are con<g ref="char:EOLhyphen"/>demned as Hereticks, becauſe they ſay, <hi>This is to hold forth two Gods</hi> (as the <hi>Qua<g ref="char:EOLhyphen"/>kers</hi> before objected, and for which they are condemned.</p>
                <p>
                   <hi>Examp.</hi> 6. The <hi>Quakers</hi> believe, that
-<pb facs="tcp:000908_0035_0FACA07EA5430448"/>
+<pb facs="unknown:000908_0035_0FACA07EA5430448"/>
                   <hi>Father, Son and holy Ghoſt are but Names to ſignifie the holy One,</hi> W. P<hi>'s Sandy foun<g ref="char:EOLhyphen"/>dation.</hi> And for this they are accounted no Chriſtians, <hi>Conteſt for Chriſtianity:</hi> The Reaſon there rendered, is, becauſe at that rate Chriſt could not be God as a ſecond Perſon in the Trinity, but that only God is God, which neither <hi>Socinus</hi> nor <hi>Sabellius</hi> ever denyed, But when we affirm<g ref="char:punc">▪</g> 
                   <hi>That Father, Son &amp; holy <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -663,7 +669,7 @@ born<g ref="char:punc">▪</g> Snake in the graſs<g ref="char:punc">▪</g> p.<
                <p>The <hi>Keithian Quaker, Quaker, Presb. Independ. Church men, John Wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>s</hi> and his party, accuſe <hi>T. Rutter</hi> and me of He<g ref="char:EOLhyphen"/>reſie, becauſe we oppoſe them and the <hi>Quakers</hi> in this, alledging, That he that dyed upon the Croſs, was as truly God as Man, and therefore the
-<pb facs="tcp:000908_0036_0FACA07F63DA2960"/>
+<pb facs="unknown:000908_0036_0FACA07F63DA2960"/>
 Blood that that Man ſhed was the Blood of God, and conſequently God ſhed his Blood as ſuch<g ref="char:punc">▪</g>
                </p>
                <p>
@@ -684,7 +690,7 @@ Blood that that Man ſhed was the Blood of God, and conſequently God ſhed his 
                   </hi>
                   <g ref="char:punc">▪</g> (uſing the words of the Pro<g ref="char:EOLhyphen"/>phet) for this they ſentence him for a Blaſphemer and Heretick.</p>
                <p>
-                  <pb facs="tcp:000908_0037_0FACA080225903B8"/>
+                  <pb facs="unknown:000908_0037_0FACA080225903B8"/>
                   <hi>Examp.</hi> 10. G K. blames G W. be<g ref="char:EOLhyphen"/>cauſe he diſowns the Term <hi>God-man</hi>
                   <g ref="char:punc">▪</g> 
                   <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -702,14 +708,14 @@ Blood that that Man ſhed was the Blood of God, and conſequently God ſhed his 
                <p>I hope by this time, the <hi>Readers</hi> Un<g ref="char:EOLhyphen"/>derſtanding may be a little opened, that he may be able to ken a little into the Myſtery of this Iniquity. What grand Hypocriſie! What Partiality is this! What! let a man hold never ſo ſound a Truth, if they affect not his Perſon, this by them ſhall be rendred a <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ereſie. And again, if another hold never ſo groſs a Hereſie, if they in any ſort affect his
-<pb facs="tcp:000908_0038_0FACA080E2FEA9F8"/>
+<pb facs="unknown:000908_0038_0FACA080E2FEA9F8"/>
 Perſon, and alſo by reaſon thereof, they may take an advantage (ſeemingly) a<g ref="char:EOLhyphen"/>gainſt another whom they greatly diſaf<g ref="char:EOLhyphen"/>fect this by them ſhall be rendered for a Truth. Is this <hi>Chriſtianity?</hi> No ſure, far from it: This is far from loving Enemies, when they hate their own Friends: This is far from underſtanding the Truth, when they condemn Truth for Error, call good evil, and evil good; put light for darkneſs, and darkneſs for light. What a mingle-mangle is this of Religion! What! make Religion a Stage-play or Comedy of it! What! toſs the great Points of Chriſtian Faith to and <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ro, like a Tennis-ball, at their will. This is playing and trifling with things of Eternity: This is condemning others for that thing which they do themſelves. This is <gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>tempting to caſt a Moat out of another's Eye, when in the mean while a Beam lies in their own.</p>
                <p>
-                  <pb facs="tcp:000908_0039_0FACA081A3371B30"/>But I pray God, even the Father, and our Lord Jeſus Chriſt, his Son, to make theſe my poor Labours effectual, to the opening of their Underſtandings, and the convincing them of their fol<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb facs="unknown:000908_0039_0FACA081A3371B30"/>But I pray God, even the Father, and our Lord Jeſus Chriſt, his Son, to make theſe my poor Labours effectual, to the opening of their Underſtandings, and the convincing them of their fol<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>y (that they may repent thereof) as well as to the converting of their Souls, to the end they may receive the Truth as it is in Jeſus, in the love of it, and be ſaved. <hi>Amen.</hi>
                </p>
@@ -720,7 +726,7 @@ Perſon, and alſo by reaſon thereof, they may take an advantage (ſeemingly) a
             </div>
          </div>
          <div type="table_of_contents">
-            <pb facs="tcp:000908_0040_0FACA08261A46D40"/>
+            <pb facs="unknown:000908_0040_0FACA08261A46D40"/>
             <head>The Contents.</head>
             <list>
                <item>COncerning the ſeven Points charged and owned, <hi>pag<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -776,7 +782,7 @@ Perſon, and alſo by reaſon thereof, they may take an advantage (ſeemingly) a
                         <hi>Chap. 4. §. 1.</hi> The first Propoſition, Christ is Gods Eternal Son, with the Argument, <hi>p 18.</hi>
                      </item>
                      <item>
-                        <pb facs="tcp:000908_0041_0FACA08320C0F6C8"/>
+                        <pb facs="unknown:000908_0041_0FACA08320C0F6C8"/>
                         <hi>§. 2.</hi> Proved by Teſtimonies <gap reason="illegible" resp="#PDCC" extent="1 word">
                            <desc>〈◊〉</desc>
                         </gap>, Father, Son and holy Ghoſt, <hi>p. 19.</hi>
@@ -851,7 +857,7 @@ Perſon, and alſo by reaſon thereof, they may take an advantage (ſeemingly) a
                            </gap> 48.</hi>
                      </item>
                      <item>
-                        <pb facs="tcp:000908_0042_0FACA083EA2A3080"/>
+                        <pb facs="unknown:000908_0042_0FACA083EA2A3080"/>
                         <hi>§. 5.</hi> Another Objection anſwered about the <g ref="char:V">Ʋ</g>nion of the Natures, <hi>p. 51.</hi>
                      </item>
                      <item>
@@ -890,7 +896,7 @@ Perſon, and alſo by reaſon thereof, they may take an advantage (ſeemingly) a
                         <hi>§. 3</hi> Some Notice taken of ſome of <hi>G. K</hi>'s My<g ref="char:EOLhyphen"/>ſtical Doctrines, <hi>p. 110.</hi>
                      </item>
                      <item>
-                        <pb facs="tcp:000908_0043_0FACA084A023FF30"/>
+                        <pb facs="unknown:000908_0043_0FACA084A023FF30"/>
                         <hi>Chap. 9.</hi> Containing an abstract of Humane A<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>
@@ -916,7 +922,7 @@ Perſon, and alſo by reaſon thereof, they may take an advantage (ſeemingly) a
       </front>
       <body>
          <div type="text">
-            <pb facs="tcp:000908_0044_0FACA086387552C8"/>
+            <pb facs="unknown:000908_0044_0FACA086387552C8"/>
             <head>JES<g ref="char:V">Ʋ</g>S the Cru<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ified Man, The Eternal Son of God.</head>
@@ -930,7 +936,7 @@ Perſon, and alſo by reaſon thereof, they may take an advantage (ſeemingly) a
                   <p n="2">
                      <hi>2.</hi> That that very vi<g ref="char:EOLhyphen"/>ſible Body of our Lord Jeſus Chriſt which the <hi>Jews</hi> ſaw with their na<g ref="char:EOLhyphen"/>tural Eyes and crucified, was in heaven, and came down from thence into the virgin <hi>Marys</hi> womb, and lay there <hi>9</hi> months.</p>
                   <p n="3">
-                     <pb n="2" facs="tcp:000908_0045_0FACA0864A231F90"/>
+                     <pb n="2" facs="unknown:000908_0045_0FACA0864A231F90"/>
                      <hi>3.</hi> That the Word or divine Nature of Chriſt did incorporate it ſelf with fleſh and blood, or with the humane nature, as wine is mixt with wa<g ref="char:EOLhyphen"/>ter, by which means the Word was made fleſh, &amp; ſo became capable to dye, which before it could not.</p>
                   <p n="4">
                      <hi>4.</hi> That the divine Nature of Chriſt, as well as his humane, was nailed to the Croſs, and lay in<g ref="char:EOLhyphen"/>cloſed, bounded &amp; limit<g ref="char:EOLhyphen"/>ed within the Sepulchre.</p>
@@ -938,12 +944,12 @@ Perſon, and alſo by reaſon thereof, they may take an advantage (ſeemingly) a
                      <hi>5</hi> That our Lord Je<g ref="char:EOLhyphen"/>ſus Chriſt was inferiour to his Father be<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>ore his Incarnation, and is no
-<pb n="3" facs="tcp:000908_0046_0FACA086E2C1B480"/>
+<pb n="3" facs="unknown:000908_0046_0FACA086E2C1B480"/>
 otherwiſe equal with God the Father than <hi>Joſeph</hi> was to <hi>Pharoah,</hi> or a mans Son can be to his Father.</p>
                   <p n="6">
                      <hi>6.</hi> That we cannot di<g ref="char:EOLhyphen"/>ſtinguiſh betwixt the two Natures in Chriſt, except we divide them; and that it is an Error in Chriſtians to ſay, he is God and Man, but that he is God-Man, and not humane and divine, but Human-divine, or Di<g ref="char:EOLhyphen"/>vine-humane.</p>
                   <p n="7">
-                     <pb n="3" facs="tcp:000908_0047_0FACA087A6D48958"/>7. That there are two Gods in Heaven, a greater and an inferior God, &amp; that the greater God ſent the inferior or leſſer God to dye, and the inferior God dyed.</p>
+                     <pb n="3" facs="unknown:000908_0047_0FACA087A6D48958"/>7. That there are two Gods in Heaven, a greater and an inferior God, &amp; that the greater God ſent the inferior or leſſer God to dye, and the inferior God dyed.</p>
                </div>
                <div type="points">
                   <head>The <hi>7</hi> Points owned.</head>
@@ -954,7 +960,7 @@ otherwiſe equal with God the Father than <hi>Joſeph</hi> was to <hi>Pharoah,</
                         <desc>•</desc>
                      </gap>n<g ref="char:EOLhyphen"/>fants are, was brought forth into the world.</p>
                   <p n="3">
-                     <pb n="2" facs="tcp:000908_0045_0FACA0864A231F90"/>3. That the Word (or Son of God) did incarnate himſelf with humane nature, in ſuch wiſe that the union of the <hi>natures</hi> was beyond all natural mixtures, either of wine &amp; water or any thing elſe, by which means the <hi>Word</hi> was made <hi>
+                     <pb n="2" facs="unknown:000908_0045_0FACA0864A231F90"/>3. That the Word (or Son of God) did incarnate himſelf with humane nature, in ſuch wiſe that the union of the <hi>natures</hi> was beyond all natural mixtures, either of wine &amp; water or any thing elſe, by which means the <hi>Word</hi> was made <hi>
                         <gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>leſh,</hi> and ſo became capable to dye, which before he could not.</p>
@@ -962,11 +968,11 @@ otherwiſe equal with God the Father than <hi>Joſeph</hi> was to <hi>Pharoah,</
                   <p n="5">5. That our Lord Jeſus Chriſt was in all things ſubject to his Father; and <gap reason="illegible" resp="#PDCC" extent="1 span">
                         <desc>〈…〉</desc>
                      </gap>
-                     <pb n="3" facs="tcp:000908_0046_0FACA086E2C1B480"/>
+                     <pb n="3" facs="unknown:000908_0046_0FACA086E2C1B480"/>
 by <hi>Pharoahs</hi> appoint<g ref="char:EOLhyphen"/>ment was made Sover<g ref="char:EOLhyphen"/>aign over all the King<g ref="char:EOLhyphen"/>dom of <hi>Egypt,</hi> yet he acknowledgeth <hi>Pharo<g ref="char:EOLhyphen"/>ah</hi> to be his Soveraign, or as a King ſets his Son in the ſame degree of honour with him<g ref="char:EOLhyphen"/>ſelf, yet every ſuch Son, (if dutiful) pays a filial ſubjection and reſpect to his Father. So likewiſe, altho' God hath made his Son both Lord and Chriſt, and ſoveraign Ruler over all Worlds, having committed all Power into his hands, both in Heaven and in Earth, yet Chriſt doth pay ſubjection to his Father.</p>
                   <p n="6">6. That we cannot diſtinguiſh betwixt the two Natures in Chriſt (no more than we can divide them) and that it is an error in Chri<g ref="char:EOLhyphen"/>ſtians, when Chriſt is ſaid to be God &amp; Man, thereby to conceive two Beings or Perſons, for one Perſon is God and Man (or <hi>Theantro<g ref="char:EOLhyphen"/>phos</hi>) and both is one Chriſt.</p>
                   <p n="7">
-                     <pb n="3" facs="tcp:000908_0047_0FACA087A6D48958"/>7. That there is in heaven God the Fa<g ref="char:EOLhyphen"/>ther and God the Son (as alſo God the holy Ghoſt) and that God the Father is greater than God the Son, and that the Fathe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <pb n="3" facs="unknown:000908_0047_0FACA087A6D48958"/>7. That there is in heaven God the Fa<g ref="char:EOLhyphen"/>ther and God the Son (as alſo God the holy Ghoſt) and that God the Father is greater than God the Son, and that the Fathe<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap> ſent the Son into the world, &amp; God the Son dyed.</p>
                </div>
@@ -981,7 +987,7 @@ by <hi>Pharoahs</hi> appoint<g ref="char:EOLhyphen"/>ment was made Sover<g ref="
                <p n="1">§. 1. To deny this point, is to deny the Reſurrection of Chriſt. <hi>But now is Christ riſen from the dead, and become the first fruits of them that ſlept,</hi> 1 Cor. 15 20. <hi>And <gap reason="illegible" resp="#PDCC" extent="1 span">
                         <desc>〈…〉</desc>
                      </gap> in, and found not the Body of the Lord Jeſus,</hi>
-                  <pb n="5" facs="tcp:000908_0048_0FACA0891D113920"/>
+                  <pb n="5" facs="unknown:000908_0048_0FACA0891D113920"/>
 Luke 24.3. and v. 6. <hi>The Angel ſaid, he is not here, but is riſen· And he bodily aſcended up to heaven in the ſight of the</hi> Gallileans, <hi>Acts</hi> 1.9, 10, 11. Hence the Apoſtle tells, <hi>Phil.</hi> 3.21. <hi>That our vile Body ſhall be made like unto his glorious Body.</hi> Now if Chriſts Body be riſen from the dead, it is united again unto his Soul, and both are aſcended into heaven. And foraſmuch as he is the Mediator, his Body and Soul is as truly Divine as Humane; and further, that he retains the ſame form in which he roſe and aſcended, is evident from the Scriptures, which was in the form and likeneſs of himſelf, to wit, the Man Chriſt Jeſus, the Mediator, God-man; therefore God hath a divine Body and Soul in the form and likeneſs of a Man.</p>
                <p n="2">§. 2. <hi>Object.</hi> But my Adverſaries do object, <hi>If a man ſhould ſo preach and aſſert, without di<g ref="char:EOLhyphen"/>stinction, the people would neceſſarily underſtand it of God the Father.</hi>
                </p>
@@ -995,7 +1001,7 @@ Luke 24.3. and v. 6. <hi>The Angel ſaid, he is not here, but is riſen· And he
                   </gap>eceſſarily be underſtood; but doth rather <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>iſcover the great ignorance of the Objector,
-<pb n="6" facs="tcp:000908_0049_0FACA0892E5BF350"/>
+<pb n="6" facs="unknown:000908_0049_0FACA0892E5BF350"/>
 (wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ch was <hi>T. Clayton,</hi> Prieſt of the <hi>Church of England,</hi> advocating for <hi>J. Wats</hi> at the Meet<g ref="char:EOLhyphen"/>ing at <hi>Philadelphia, May</hi> 23. 1699.) in the phraſe and language of holy Writ; for ac<g ref="char:EOLhyphen"/>cording to this we ſhould neceſſarily under<g ref="char:EOLhyphen"/>ſtand the Apoſtles, <hi>Paul</hi> and <hi>John,</hi> that God the Father ſhed his Blood for the Church, and that God the Father laid down his Life, <hi>Acts</hi> 20.28. 1 <hi>John</hi> 3.16. becauſe both places are ſpoken without diſtinction; but this would not only be abſurd, but blaſphemous.</p>
@@ -1013,7 +1019,7 @@ Luke 24.3. and v. 6. <hi>The Angel ſaid, he is not here, but is riſen· And he
                      <desc>•</desc>
                   </gap> Opinion.</p>
                <p n="3">
-                  <pb n="7" facs="tcp:000908_0050_0FACA089E77F4078"/>3. They malitiouſly accuſe me and my Friend <hi>T. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="7" facs="unknown:000908_0050_0FACA089E77F4078"/>3. They malitiouſly accuſe me and my Friend <hi>T. <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>utter</hi> of holding, <hi>That God ſits in Heaven in the ſhape of a little old Man</hi> (as they phraſe it.)</p>
                <p>
@@ -1021,7 +1027,7 @@ Luke 24.3. and v. 6. <hi>The Angel ſaid, he is not here, but is riſen· And he
                </p>
                <p n="3">
                   <pb n="8"
-                      facs="tcp:000908_0051_0FACA08AA83A5318"
+                      facs="unknown:000908_0051_0FACA08AA83A5318"
                       rendition="simple:additions"/>§. 3. But that which makes our Adverſa<g ref="char:EOLhyphen"/>ries to rave as they do, not only at us, but i<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> effect at the Prophet himſelf, is becauſe thi<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1041,7 +1047,7 @@ Luke 24.3. and v. 6. <hi>The Angel ſaid, he is not here, but is riſen· And he
                      <desc>•</desc>
                   </gap>s that Gods glorious &amp; perſonal Preſence, is only in Heaven, and not every where alike. It is ſaid, <hi>The Lord was not in the Wind, nor in the Earth-quake, nor in the Fire,</hi> 1 Kings 19.
 <pb n="9"
-                      facs="tcp:000908_0052_0FACA08B62BE2E28"
+                      facs="unknown:000908_0052_0FACA08B62BE2E28"
                       rendition="simple:additions"/>
 11, 12. Then not every where alike.</p>
                <p n="2">2<hi>dly,</hi> The Abſurdities that do ariſe from it.</p>
@@ -1057,7 +1063,7 @@ Luke 24.3. and v. 6. <hi>The Angel ſaid, he is not here, but is riſen· And he
                      </lg>
                   </q>
 For if God be every where alike, then either every thing is God, &amp; then every thing muſt be worſhipped, or elſe nothing is God, and ſo nothing muſt be worſhipped. If we grant the firſt, that promotes Idolatry in the higheſt degree of it: If the ſecond, it intro<g ref="char:EOLhyphen"/>duces Atheiſm in the utmoſt extream of it: What a mad piece of abſurd and jumbled Divinity would this be! But that God is every where preſent by his <hi>ſacred Attributes,</hi>
-                  <pb n="10" facs="tcp:000908_0053_0FACA08C3050AAE8"/>
+                  <pb n="10" facs="unknown:000908_0053_0FACA08C3050AAE8"/>
 Pſal. 139.7. is in no wiſe denyed by us, but owned and believed, to wit, by his <hi>all-ſeeing Eye,</hi> Pſal. 139 8. by his <hi>omnipotent Power,</hi> v. 10. by his <hi>infinite Wiſdom,</hi> &amp;c. Pſal. 147.5.</p>
             </div>
             <div n="2" type="chapter">
@@ -1074,7 +1080,7 @@ Pſal. 139.7. is in no wiſe denyed by us, but owned and believed, to wit, by hi
                   <head>Propoſition III.</head>
                   <p>
                      <hi>That Chriſt the eternal</hi> Logos, <hi>or proper Son of God, after his Incarnation, conjunctively in
-<pb n="11" facs="tcp:000908_0054_0FACA08CE40ACA98"/>
+<pb n="11" facs="unknown:000908_0054_0FACA08CE40ACA98"/>
 both Natures, in an inſeperable <g ref="char:V">Ʋ</g>nion, as he was the Son of God, and the Son of Man, even God incarnate, the ſecond Perſon in the Trinity, did pay the Ranſom of our ſins, by humbling himſelf unto the Death, even the Death of the Croſs.</hi>
                   </p>
                   <p n="1">1. <hi>Obſerve,</hi> That the firſt Propoſition con<g ref="char:EOLhyphen"/>tains the firſt part of the ſecond point of Doctrine, which, in ſhort, is the Eternity of Chriſt.</p>
@@ -1085,7 +1091,7 @@ both Natures, in an inſeperable <g ref="char:V">Ʋ</g>nion, as he was the Son o
             <div n="3" type="chapter">
                <head>CHAP. III.</head>
                <p n="1">§. 1. BEfore I begin to prove my Propoſi<g ref="char:EOLhyphen"/>tions, I ſhall endeavour to remove one ſcruple, which poſſibly may remain upon the Readers mind, and that is this, which I will bring in by way of an Objection, <hi>Why I uſe thoſe Terms</hi> Viſible <hi>and</hi> Outward Perſon,
-<pb n="12" facs="tcp:000908_0055_0FACA08DA08C0030"/>
+<pb n="12" facs="unknown:000908_0055_0FACA08DA08C0030"/>
                   <hi>and apply them to Chriſt, ſeeing we find them not in the Scriptures?</hi>
                </p>
                <p>
@@ -1100,7 +1106,7 @@ both Natures, in an inſeperable <g ref="char:V">Ʋ</g>nion, as he was the Son o
                      </gap> is the proper Son of God.</hi>
                </p>
                <p>
-                  <pb n="13" facs="tcp:000908_0056_0FACA08E6187F048"/>But this is not all, for it is not only Scrip<g ref="char:EOLhyphen"/>
+                  <pb n="13" facs="unknown:000908_0056_0FACA08E6187F048"/>But this is not all, for it is not only Scrip<g ref="char:EOLhyphen"/>
                   <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ural, but plain Scripture, <hi>viz.</hi> That he hath <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1156,7 +1162,7 @@ both Natures, in an inſeperable <g ref="char:V">Ʋ</g>nion, as he was the Son o
                      </gap>ndled of the Word of Life.</hi>
                </p>
                <p n="2">
-                  <pb n="14" facs="tcp:000908_0057_0FACA08F21465750"/>§. 2. Next, as to the word <hi>Perſon,</hi> becauſe that is ſcrupled by ſome: <hi>what</hi> (ſay they) <hi>muſt we underſtand by Perſon? Anſw.</hi> Indeed at this rate men will ſcruple ſound and wholſom words and terms of holy Scripture. For ſo he Apoſtle ſets forth our Saviour, under the Title of Perſon; telling that he did forgive in the Perſon of Chriſt, 2 <hi>Cor.</hi> 2.10. He is called <hi>this juſt Perſon</hi> by <hi>Pilate, Mat.</hi> 27.24. But if any ſhould deſire to know what the ſignification of Perſon is, I ſhall give them the Definition thereof from <hi>Goldman</hi>; A Perſon (ſaith he) is an Individed ſubſtance of a Rational Nature. From hence we may conclude, every Subſtance that is Rational is a Perſon; and they are of three kinds, <hi>Divine, Angelical</hi> and <hi>Humane</hi>; and every Subſtance that is Irrational, is not a Perſon; ſuch are <hi>Annimals, Vegetables, Minerals</hi> and <hi>Inſenſible Creatures.</hi> Hence it is that Chriſt i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="14" facs="unknown:000908_0057_0FACA08F21465750"/>§. 2. Next, as to the word <hi>Perſon,</hi> becauſe that is ſcrupled by ſome: <hi>what</hi> (ſay they) <hi>muſt we underſtand by Perſon? Anſw.</hi> Indeed at this rate men will ſcruple ſound and wholſom words and terms of holy Scripture. For ſo he Apoſtle ſets forth our Saviour, under the Title of Perſon; telling that he did forgive in the Perſon of Chriſt, 2 <hi>Cor.</hi> 2.10. He is called <hi>this juſt Perſon</hi> by <hi>Pilate, Mat.</hi> 27.24. But if any ſhould deſire to know what the ſignification of Perſon is, I ſhall give them the Definition thereof from <hi>Goldman</hi>; A Perſon (ſaith he) is an Individed ſubſtance of a Rational Nature. From hence we may conclude, every Subſtance that is Rational is a Perſon; and they are of three kinds, <hi>Divine, Angelical</hi> and <hi>Humane</hi>; and every Subſtance that is Irrational, is not a Perſon; ſuch are <hi>Annimals, Vegetables, Minerals</hi> and <hi>Inſenſible Creatures.</hi> Hence it is that Chriſt i<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> a Perſon, becauſe he is an individed Subſtanc<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -1166,17 +1172,17 @@ both Natures, in an inſeperable <g ref="char:V">Ʋ</g>nion, as he was the Son o
                <p n="3">§. 3. Object. <hi>But although Christ did Per<g ref="char:EOLhyphen"/>ſonally appear in the form and likeneſs of a Ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>
-                     <pb n="15" facs="tcp:000908_0058_0FACA08FE264EA98"/>
+                     <pb n="15" facs="unknown:000908_0058_0FACA08FE264EA98"/>
 before his Incarnation, yet that doth not argue, that he was ſuch an outward Perſon as he ap<g ref="char:EOLhyphen"/>peared to be, or had ſuch a form and likeneſs properly, becauſe Angels have frequently appeared in ſuch forms, and yet none do believe that they have ſuch forms properly of their own, but that they borrow or aſſume Bodies in which they do ap<g ref="char:EOLhyphen"/>pear after this manner.</hi>
                </p>
                <p>
                   <hi>Anſw.</hi> This being laid down for a Principle, it ought to be proved by expreſs Teſtimony of Scripture, or elſe no man is bound to be<g ref="char:EOLhyphen"/>lieve it, <hi>viz.</hi> That Angels do aſſume Bodies in which they appear, and that they do not appear in their own proper Bodies. But ſee<g ref="char:EOLhyphen"/>ing there is no Scripture to prove this thing, or any thing like it, I ſhall preſume to prove the contrary by Scripture, to wit, <hi>That An<g ref="char:EOLhyphen"/>gels do appear in their own proper Bodies, and not in borrowed or aſſumed ones.</hi> It is ſaid, <hi>Dan.</hi> 10.6. concerning the Angel that appeared to <hi>Daniel, That his Body alſo was like the Beryl, and his Face as the appearance of Lightning,</hi> &amp;c. Where note, it is ſaid [<hi>His Body</hi>] meaning the Angel; 'tis not ſaid a borrowed or aſſum<g ref="char:EOLhyphen"/>ed Body. So then I conclude from hence, it was the Angels own proper Body; from whence alſo it appears that Angels do appear
-<pb n="16" facs="tcp:000908_0059_0FACA090E7235538"/>
+<pb n="16" facs="unknown:000908_0059_0FACA090E7235538"/>
 in their own proper forms, and conſequently our Saviour himſelf, when he did ſo appear, who was and is the head of the Angels,</p>
                <p>The Abſurdities that do follow at the <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> of this fooliſh Opinion, are many, whereof I will give ſome few. 1ſt. Then if they do borrow Bodies, it muſt be ſome ones Body, that belongs either to the quick or dead. If to the quick, the Perſon whoſe Body the Angel doth occupy, would be ſenſible of the ſaid occupation, and then it would not only be a borrowing or aſſuming the Body, but the Soul alſo, and conſequently the Perſon would give a relation of it, to ſome of his Friends or others, by which means we might have more certain knowledge of ſuch a thing. But of ſuch a thing we never heard. 2. If to the Dead, it muſt be a Body that hath been newly Dead, or one that hath laid ſome time in the Grave. As to the firſt, <hi>one newly Dead,</hi> this would be a Miracle ſeen and beheld of men, becauſe the dead Bodies of men are never caſt out of the ſight of the living, until they are entoombed in the Grave, and then we ſhould have more knowledge of it. But this is ridiculous, as well as abſurd, and con<g ref="char:EOLhyphen"/>trary to reaſon. As to the ſecond, If one that hath been ſome time in the grave, Then
-<pb n="17" facs="tcp:000908_0060_0FACA09161DAABF8"/>
+<pb n="17" facs="unknown:000908_0060_0FACA09161DAABF8"/>
 this would be a Reſurrection to that Body without its own proper Soul, which is ab<g ref="char:EOLhyphen"/>ſurd, and againſt the Ana<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ogy of Scripture, 2d. Or elſe it muſt be a Body create<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1195,7 +1201,7 @@ this would be a Reſurrection to that Body without its own proper Soul, which is
                   </gap>ine, and what points belong to this or the other Propoſition, are nominated before.</p>
             </div>
             <div n="4" type="chapter">
-               <pb n="18" facs="tcp:000908_0061_0FACA092B3201AB0"/>
+               <pb n="18" facs="unknown:000908_0061_0FACA092B3201AB0"/>
                <head>CHAP. IV.</head>
                <div n="1" type="proposition">
                   <head>
@@ -1216,7 +1222,7 @@ this would be a Reſurrection to that Body without its own proper Soul, which is
                      </gap> Son.</p>
                   <p>
                      <hi>Concluſion.</hi> Therefore that outward and
-<pb n="19" facs="tcp:000908_0062_0FACA0932490A820"/>
+<pb n="19" facs="unknown:000908_0062_0FACA0932490A820"/>
 viſible Perſon, <hi>Jeſus,</hi> muſt needs be Gods Son, and none but he.</p>
                   <p>The <hi>major</hi> Propoſition is grounded upon the Authority of Gods Word, which none dare to ſcruple the truth of. The <hi>minor</hi> or aſſumption rem<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -1263,7 +1269,7 @@ viſible Perſon, <hi>Jeſus,</hi> muſt needs be Gods Son, and none but he.</p>
                      </gap>igu<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>ation on the
-<pb n="20" facs="tcp:000908_0063_0FACA093A1E87350"/>
+<pb n="20" facs="unknown:000908_0063_0FACA093A1E87350"/>
 Mount, with an addition, enjoyning our di<g ref="char:EOLhyphen"/>ligence, and audience to hearken to him, <hi>Mat.</hi> 17 5. This alſo <hi>Peter</hi> teſtifies to the tru<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>h of, that himſelf was an ear Witneſs of this Paternal and Coeleſtial Oracle, 2 <hi>Pet.</hi> 
@@ -1316,7 +1322,7 @@ Mount, with an addition, enjoyning our di<g ref="char:EOLhyphen"/>ligence, and a
                      </hi> meaning the Son of God; he anſwered, <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap>
-                     <pb n="21" facs="tcp:000908_0064_0FACA09460E9D7A0"/>
+                     <pb n="21" facs="unknown:000908_0064_0FACA09460E9D7A0"/>
                      <hi>haſt both ſeen him, and it is he that talketh with thee,</hi> Joh. 9.37. meaning himſelf; and he worſhipped him, to wit, th<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap> outward Perſon. 3<hi>dly,</hi> he ſaith, <hi>God ſo loved the world, that he gave his only begotten Son into the world,</hi> &amp;c to w<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1331,7 +1337,7 @@ Mount, with an addition, enjoyning our di<g ref="char:EOLhyphen"/>ligence, and a
                   <p n="4">§. 4. 3. <hi>Humane.</hi> Next, Humane Teſti<g ref="char:EOLhyphen"/>monies are divers, but I ſhall inſtance a few for brevity.</p>
                   <p>I call them Humane to diſtinguiſh them from the former, and it relates to the Perſons, rather than to the Teſtimonie themſelves, for they are Divine alſo, being dictated by the holy Ghoſt.</p>
                   <p>
-                     <pb n="22" facs="tcp:000908_0065_0FACA09524C2ACD0"/>The firſt is the Apoſtle <hi>Peter,</hi> when his Maſter would prove his Diſciples by a Que<g ref="char:EOLhyphen"/>ſtion reſpecting himſelf, ſaying unto them, <hi>Whom ſay ye that I am? Peter</hi> anſwered, and ſaid, <hi>Thou art Chriſt the Son of the living God, Mat</hi> 16.16. This anſwer our Saviour did much commend and approve, declaring, <hi>That upon him</hi> (to wit, upon himſelf, upon whom <hi>Peter</hi> had <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <pb n="22" facs="unknown:000908_0065_0FACA09524C2ACD0"/>The firſt is the Apoſtle <hi>Peter,</hi> when his Maſter would prove his Diſciples by a Que<g ref="char:EOLhyphen"/>ſtion reſpecting himſelf, ſaying unto them, <hi>Whom ſay ye that I am? Peter</hi> anſwered, and ſaid, <hi>Thou art Chriſt the Son of the living God, Mat</hi> 16.16. This anſwer our Saviour did much commend and approve, declaring, <hi>That upon him</hi> (to wit, upon himſelf, upon whom <hi>Peter</hi> had <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -1352,7 +1358,7 @@ Mount, with an addition, enjoyning our di<g ref="char:EOLhyphen"/>ligence, and a
                         </gap>cord that this is the Son of God.</hi> Then viſible to be ſure, and conſequently out<g ref="char:EOLhyphen"/>ward. 3<hi>dly, Nathaniel</hi> alſo in verſe 49. con<g ref="char:EOLhyphen"/>feſſeth, <hi>he was the Son of God</hi> 4<hi>thly, Martha</hi> acknowledgeth him to be the Son of God, <hi>John</hi> 11.27. <hi>Reader,</hi> for brevity's ſake I ſhall only ſet down the places of Scripture for the following Teſtimonies, deſiring thee to ſearch them in thy Bible, and conſider whe<g ref="char:EOLhyphen"/>ther or no they do not all relate to the out<g ref="char:EOLhyphen"/>ward Perſon.</p>
                   <p>
                      <hi>Dan.</hi> 3.25. <hi>Mat.</hi> 4.3. chap. 8.29. chap. 14.33. chap. 26.63. chap. 27.43, 54. <hi>Mark</hi> 1.1. chap. 3.11. <hi>Luke</hi> r. 35. chap. 3.38. chap. 4.41. chap. 22.70. <hi>John</hi> 1.34. chap.
-<pb n="23" facs="tcp:000908_0066_0FACA095E2C67740"/>
+<pb n="23" facs="unknown:000908_0066_0FACA095E2C67740"/>
 3.18. chap. 5.25. cha<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap> 9.<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -1375,7 +1381,7 @@ Mount, with an addition, enjoyning our di<g ref="char:EOLhyphen"/>ligence, and a
                         </gap>ace</hi> Wonderful! that he is not <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> admired by Saints and An<g ref="char:EOLhyphen"/>gels, but alſo feared and dreaded by the very Devils: The mighty God, ſo that not only Saints and Angels worſhip him, but alſo the Infernal Spirits fall down before him. The beloved of God, yea, choſen of God pre<g ref="char:EOLhyphen"/>cious,
-<pb n="24" facs="tcp:000908_0067_0FACA096A32836B0"/>
+<pb n="24" facs="unknown:000908_0067_0FACA096A32836B0"/>
 as <hi>Peter</hi> ſaith: He is a fountain to waſh us, as well as a Sun to enlighten us: He is to us both Wiſdom, Righteouſneſs, Sanctifica<g ref="char:EOLhyphen"/>tion and Redemption. He is the Anti-Type of all Types, and Subſtance of all Shadows: The ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>cond <hi>Adam,</hi> publick Perſon, and great covenanting Head, and bleſſed Repreſentative of all his Followers: The true <hi>Noah</hi> and Heir of the World: The real and proper <hi>Melchi<g ref="char:EOLhyphen"/>zedeck</hi>; the true and Anti-typical <hi>Iſaac</hi>; the Evangelical <hi>Joſeph</hi>; our Goſpel <hi>Moſes</hi>; the heavenly <hi>Joſhua</hi>; the ſtrong and mighty <hi>Samp<g ref="char:EOLhyphen"/>ſon</hi>; our Goſpel <hi>David</hi>; the true peaceable <hi>Solomon</hi>; the Evangelical <hi>Eliſha,</hi> that cures all leprous <hi>Naama<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1400,7 +1406,7 @@ as <hi>Peter</hi> ſaith: He is a fountain to waſh us, as well as a Sun to enli
                      </gap> ſmitten in the Wilderneſs; the Paſſover that was ſacrificed for us; the true Sin-offering, yea, both Prieſt and Sacrifice; the true Manna th<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>t comes down from Heaven; the <hi>Jacobal</hi> &amp; Coeleſtial Ladder, by which we aſcend to Heaven;
-<pb n="25" facs="tcp:000908_0068_0FACA097615FC320"/>
+<pb n="25" facs="unknown:000908_0068_0FACA097615FC320"/>
 In him Juſtice and Mercy do meet (as the <hi>Pſalmiſt</hi> praiſeth it) <hi>Mercy and Truth are met together, Righteouſneſs and Peace have kiſſed each other,</hi> Pſal. 85.10.</p>
                   <p n="6">§. 6. Having now gone through my ſeveral ſorts of Teſtimonies, by which I preſume I have effectually proved the <hi>minor</hi> of my Argu<g ref="char:EOLhyphen"/>ment, which being done, the <hi>concluſion</hi> (as I ſaid) doth naturally follow, <hi>viz.</hi>
                   </p>
@@ -1415,7 +1421,7 @@ In him Juſtice and Mercy do meet (as the <hi>Pſalmiſt</hi> praiſeth it) <hi>
                      <hi>Gen.</hi> 1.26. it is ſaid, <hi>Come let us make Ma<gap reason="illegible" resp="#PDCC" extent="2 letters">
                            <desc>••</desc>
                         </gap>
-                        <pb n="26" facs="tcp:000908_0069_0FACA0982C630D68"/>
+                        <pb n="26" facs="unknown:000908_0069_0FACA0982C630D68"/>
 in [Our] Image.</hi> This was the very Son of God, of which I have been ſpeaking, that did commune here with his Father about the Creation of Man. Again, in the firſt verſe of that Chapter, it is ſaid, <hi>In the beginning the Gods (or Elo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>im) created the Heavens and the Earth</hi>; for ſo it ſtands in the <hi>Hebrew,</hi> as the learned tell. Again, <hi>John</hi> 1.3. it is ſaid of the Son of God, <hi>All things were made by him, and without him was not any thing made that was made.</hi> Col. 1.16. <hi>For by him were all things created that were in Heaven, and that are in Earth,</hi> &amp;c. <hi>And he is before all things, and by him all things do conſiſt. Heb.</hi> 1.10. it is ſaid of him, <hi>And thou, Lord, in the beginning hast laid the Foundation of the Earth, and the Heavens are the Works of thine hands.</hi>
@@ -1430,7 +1436,7 @@ in [Our] Image.</hi> This was the very Son of God, of which I have been ſpeakin
                            <desc>••</desc>
                         </gap> my Redeemer liveth, &amp;c.</hi> Then he was in be<g ref="char:EOLhyphen"/>ing,
 <pb n="27"
-                         facs="tcp:000908_0070_0FACA098E52EAD40"
+                         facs="unknown:000908_0070_0FACA098E52EAD40"
                          rendition="simple:additions"/>
 and pre-exiſted. <hi>Pſal.</hi> 93.2. <hi>David</hi> crys out thus in Admiration of Chriſt and his Kingdom, when he was deeply meditating on him, <hi>T<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
@@ -1446,13 +1452,13 @@ and pre-exiſted. <hi>Pſal.</hi> 93.2. <hi>David</hi> crys out thus in Admirati
                      </gap>ble they make in this ſecond Point of Doctrine, concerning the word [<hi>Body</hi>] for ſo they put it down in their charge, <hi>The viſible Body,</hi> inſtead of <hi>viſible Perſon.</hi>
                   </p>
                   <p>Now I <hi>Anſwer</hi>; It is true, I cannot re<g ref="char:EOLhyphen"/>member that ever I preached after that man<g ref="char:EOLhyphen"/>ner,
-<pb n="28" facs="tcp:000908_0071_0FACA09A8A233318"/>
+<pb n="28" facs="unknown:000908_0071_0FACA09A8A233318"/>
 to uſe the word <hi>Body,</hi> with relation to his deſcending from Heaven, but always kept to the Term <hi>Perſon.</hi>
                   </p>
                   <p>But if I had uſed it, yet what advantage would my Adverſaries have thereby? for I may ſafely, truly and properly ſay, that that <hi>viſible Body, viz.</hi> the Lord Jeſus Chriſt, came down from Heaven, and not thereby intend at all that Chriſt brought a Body of fleſh from Heaven (which indeed I never believed) for there is a great difference betwixt ſaying, <hi>That viſible Body came down from Heaven,</hi> and <hi>That viſible Body came down from Heaven in a Body of fleſh.</hi> But if we ſhould underſtand words and phraſes at this rate, we ſhould underſtand the Apoſtles, <hi>Paul</hi> and <hi>John,</hi> That Chriſt came down from Heaven a Man, becauſe <hi>John</hi> ſaith, <hi>Behold a Man which comes after me, for he was before me.</hi> And <hi>Paul</hi> ſaith, <hi>The ſecond Man is the Lord from Heaven.</hi> Now theſe Phraſes muſt be underſtood in the preſent Tenſe, and not in the Preter-perfect; that is, Chriſt was a Man then, but not a Man before <hi>John,</hi> but a divine Perſon before <hi>John</hi> was a Man; and ſo of the reſt. So then when Chriſt, who came down from Heaven, was made a Body of fleſh, or a Man, one cou<gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
                      </gap> properly ſay, That Body or Man came down
-<pb n="29" facs="tcp:000908_0072_0FACA09B21C9E700"/>
+<pb n="29" facs="unknown:000908_0072_0FACA09B21C9E700"/>
 from Heaven, becauſe then there was, nor is now no difference betwixt the Eternal Perſon and the Body of Fleſh; but the Body of fleſh now is the Eternal Perſon, becauſe the Eter<g ref="char:EOLhyphen"/>nal Perſon was made fleſh in the fullneſs of Time.</p>
                   <p>But what is the matter, Chriſts and our Adverſaries are ſo envious &amp; ſpightful at the body of fleſh? (which was Chriſt) <hi>Anſwer</hi>; they themſelves do plainly tell th<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -1463,7 +1469,7 @@ from Heaven, becauſe then there was, nor is now no difference betwixt the Etern
                         </gap>ld</hi> ſaith (in effect) <hi>That that Body of fl<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>ſh which the</hi> Jews <hi>ſaw, was not the ſecond Perſon in the Trinity.</hi> And <hi>T. Fitzwater</hi> a Quaker ſaid (in Effect) <hi>It was not the worlds Saviour.</hi> And ſo their Reaſons are one and the ſame in the ground; the brief ſum of which is to deny the Lord that bought them, which <hi>Peter</hi> calls a damnable Hereſie; and then ſure ſuch muſt needs be Hereticks. Hence that Prophecy comes true,
-<pb n="30" facs="tcp:000908_0073_0FACA09BE44E3468"/>
+<pb n="30" facs="unknown:000908_0073_0FACA09BE44E3468"/>
 concerning ſuch (The Lord) <hi>That fr<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>ſterateth the tokens of the Lyars, and maketh Di<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1506,7 +1512,7 @@ concerning ſuch (The Lord) <hi>That fr<gap reason="illegible" resp="#PDCC" exte
                      </gap>e fooliſh things, of the world, and weak alſo, ye<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>,
-<pb n="31" facs="tcp:000908_0074_0FACA09CA468EC40"/>
+<pb n="31" facs="unknown:000908_0074_0FACA09CA468EC40"/>
 ſuch that are deſpiſed, and o<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap> 
@@ -1549,7 +1555,7 @@ concerning ſuch (The Lord) <hi>That fr<gap reason="illegible" resp="#PDCC" exte
                   <p>But he that wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>h modeſt approach, with<g ref="char:EOLhyphen"/>out much boaſting and vaunting of his Power and Strength, or lording over his Enemy by reproachful Language, engageth with his Adverſary fairly in Battle, in the open field, and by his Heroical Courage, Magnaminity and Dexterity in Military Affairs, and feats
-<pb n="32" facs="tcp:000908_0075_0FACA09D633E1070"/>
+<pb n="32" facs="unknown:000908_0075_0FACA09D633E1070"/>
 of Arms, and skill in Warfare, doth, by well managing of the Battle <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>gainſt his Adverſary, according to the Laws of Warfare, manifeſt himſelf to be the Victor and Conquorer, by making his Enemies fly before him in the field. Thus, when our Adverſaries have dealt ſo by us, then let them make an open Acclamation of Victory, and not till then.</p>
@@ -1566,7 +1572,7 @@ of Arms, and skill in Warfare, doth, by well managing of the Battle <gap reason=
                      <hi>THat Chriſt, the very outward, viſible and eternal Perſon, or</hi> Logos, <hi>and proper Son of God, did in the fullneſs of time, deſcend from Heaven, according to the Predictions of the Pro<g ref="char:EOLhyphen"/>phets, and was incarnate or made Man in the Virgins Womb.</hi>
                   </p>
                   <p n="1">
-                     <pb n="33" facs="tcp:000908_0076_0FACA09E2137EBE8"/>§. 1. The myſtery of Chriſts Incarnation, is a tremendius and notable Wonder, great and beyond all compariſon 1 <hi>Tim.</hi> 3.16. That one of the bleſſed Trinity ſhould thus condeſcend, for the ſake of fallen man, to be made a man, of a Woman, <hi>Gal.</hi> 4 4. of whom he himſelf was the Creator, (moſt to be admited indeed by all, but leſs poſſible to be expreſſed by any living man, far ſur<g ref="char:EOLhyphen"/>paſſing the bounds and limmits of our ſhallow capacitie to fa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <pb n="33" facs="unknown:000908_0076_0FACA09E2137EBE8"/>§. 1. The myſtery of Chriſts Incarnation, is a tremendius and notable Wonder, great and beyond all compariſon 1 <hi>Tim.</hi> 3.16. That one of the bleſſed Trinity ſhould thus condeſcend, for the ſake of fallen man, to be made a man, of a Woman, <hi>Gal.</hi> 4 4. of whom he himſelf was the Creator, (moſt to be admited indeed by all, but leſs poſſible to be expreſſed by any living man, far ſur<g ref="char:EOLhyphen"/>paſſing the bounds and limmits of our ſhallow capacitie to fa<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>hom thi<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -1577,7 +1583,7 @@ of Arms, and skill in Warfare, doth, by well managing of the Battle <gap reason=
                      </gap>come bank<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>rupt, he is not able to diſcharge in the leaſt meaſure, and that there is no poſſibility to eſcape the Penalty of
-<pb n="34" facs="tcp:000908_0077_0FACA09EE1CB69B8"/>
+<pb n="34" facs="unknown:000908_0077_0FACA09EE1CB69B8"/>
 his Offence, unleſs an infinite and eternal Per<g ref="char:EOLhyphen"/>ſon becomes Surety to God the Father for him. And that alſo there was no ſuch Perſon to be found, to perform this great Work of <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> Redemption, that was proper for that Undertaking, to pay mans <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1637,7 +1643,7 @@ his Offence, unleſs an infinite and eternal Per<g ref="char:EOLhyphen"/>ſon be
                         <desc>••</desc>
                      </gap> from Heaven, and was ſo made Man.</p>
                   <p>
-                     <pb n="35" facs="tcp:000908_0078_0FACA09FA366BE80"/>
+                     <pb n="35" facs="unknown:000908_0078_0FACA09FA366BE80"/>
                      <hi>Minor.</hi> But the ſacred Scriptures do clearly ſet forth unto us, That Chriſt the very outward and viſible eternal Perſon, or <hi>Logos,</hi> and pro<g ref="char:EOLhyphen"/>per Son of God, did ſo deſcend fro<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap> Heaven in the fullneſs of time, and upon thi<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1661,7 +1667,7 @@ his Offence, unleſs an infinite and eternal Per<g ref="char:EOLhyphen"/>ſon be
                      </gap>y outward, viſible and et<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>rnal Perſon, and pro<g ref="char:EOLhyphen"/>per
-<pb n="36" facs="tcp:000908_0079_0FACA0A06219FEE8"/>
+<pb n="36" facs="unknown:000908_0079_0FACA0A06219FEE8"/>
 Son of God, doth <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>ffirm expreſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -1693,7 +1699,7 @@ Son of God, doth <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      </gap>rally, accor<g ref="char:EOLhyphen"/>ding to this School Maxim, <hi>All Scripture muſt be t<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>ken in a litteral ſence, when there is no cogent Reaſon that urgeth to the contrary.</hi> And again, if we ſhould allow it to be underſtood allego<g ref="char:EOLhyphen"/>rically, yet that will make no advantage for my Adverſaries<g ref="char:punc">▪</g> to prove the contrary to what I do affirm, according to this Maxim,
-<pb n="37" facs="tcp:000908_0080_0FACA0A1222257A0"/>
+<pb n="37" facs="unknown:000908_0080_0FACA0A1222257A0"/>
                      <hi>Senſus allego<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>icus non eſt argum<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1721,7 +1727,7 @@ Son of God, doth <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      </gap>ward Pe<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>ſon, altho it be not really ſo, but a cheat of the Devil. But ſo
-<pb n="38" facs="tcp:000908_0081_0FACA0A1E15B42C8"/>
+<pb n="38" facs="unknown:000908_0081_0FACA0A1E15B42C8"/>
 to conceive of Chriſt would be blaſphemous, abominable &amp; Wicked. And, 2<hi>dly,</hi> It would <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> two Perſons, one outward, and another inward, which would infer two Chriſts. And this would be a <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1779,7 +1785,7 @@ to conceive of Chriſt would be blaſphemous, abominable &amp; Wicked. And, 2<hi
                         <desc>〈◊〉</desc>
                      </gap>.</p>
                   <p>
-                     <pb n="39" facs="tcp:000908_0082_0FACA0A2A1E7A448"/>Chriſt being an outward Perſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <pb n="39" facs="unknown:000908_0082_0FACA0A2A1E7A448"/>Chriſt being an outward Perſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>n from Eter<g ref="char:EOLhyphen"/>nity, his being made Man altered him nothing in reſpect of his outwardneſs and <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
@@ -1803,7 +1809,7 @@ to conceive of Chriſt would be blaſphemous, abominable &amp; Wicked. And, 2<hi
                      </gap> after his Deſce<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>tion from Heaven; for his humane Nature added nothing to him, which made him either more
-<pb n="40" facs="tcp:000908_0083_0FACA0A3C034B048"/>
+<pb n="40" facs="unknown:000908_0083_0FACA0A3C034B048"/>
 or leſs viſib<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>e and outward, but a Nature o<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1847,7 +1853,7 @@ or leſs viſib<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         </gap> of the World,</hi> m<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>aning, he would offer up his own Perſon a Ranſom
-<pb n="41" facs="tcp:000908_0084_0FACA0A55F598EF8"/>
+<pb n="41" facs="unknown:000908_0084_0FACA0A55F598EF8"/>
 upon the C<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>oſs, even unto Death, that he thereby might procure to all men Life, that would thus truly believe in his Death.</p>
@@ -1878,7 +1884,7 @@ upon the C<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         </gap>d from Heaven,</hi> mea<g ref="char:EOLhyphen"/>ning Jeſus Chriſt, Gods proper and eternal Son, who the<gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
                      </gap> was truly made a Man. And further, the ſame Apoſtle argueth, <hi>Epheſ.</hi> 4.
-<pb n="42" facs="tcp:000908_0085_0FACA0A5A2B5BA18"/>
+<pb n="42" facs="unknown:000908_0085_0FACA0A5A2B5BA18"/>
 9, 10. <hi>Now that <gap reason="illegible" resp="#PDCC" extent="1 span">
                            <desc>〈…〉</desc>
                         </gap>
@@ -1904,7 +1910,7 @@ upon the C<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      </gap>i<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>es of Angels; therefore he intimates to <hi>Nicodemus,</hi> That that was a ſmall thing he had told him of the neceſſity of mans being born again, ſeeing it was but an earthly thing, and yet he could not believe; from whence Chriſt queries with him, if he could not be<g ref="char:EOLhyphen"/>lieve when he had told him earthly things, how then could he believe if he ſhould tell him
-<pb n="43" facs="tcp:000908_0086_0FACA0A66355F5A0"/>
+<pb n="43" facs="unknown:000908_0086_0FACA0A66355F5A0"/>
                      <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>hat things were wrought and done amongſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1938,7 +1944,7 @@ upon the C<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         </gap>tward and viſible Per<g ref="char:EOLhyphen"/>ſon, or eternal Son of God, was made Man of a Woman in the fullneſs of Time.</hi>
                   </p>
                   <p>
-                     <pb n="44" facs="tcp:000908_0087_0FACA0A7246DED80"/>This was not only pre<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <pb n="44" facs="unknown:000908_0087_0FACA0A7246DED80"/>This was not only pre<gap reason="illegible" resp="#PDCC" extent="3 letters">
                         <desc>•••</desc>
                      </gap>ted by the Pro<g ref="char:EOLhyphen"/>phets, but alſo pro<gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
@@ -1967,7 +1973,7 @@ upon the C<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>oretells of his miraculous birth, of his being born of a Virgin, and what he was. <hi>Iſa.</hi> 7.14. with a note of attention, <hi>Behold, a virgin ſhall be with Child, and ſhall bring forth a Son, and they ſhall call his name Emanuel, which being interpreted is God with
-<pb n="45" facs="tcp:000908_0088_0FACA0A7E0DAF708"/>
+<pb n="45" facs="unknown:000908_0088_0FACA0A7E0DAF708"/>
 us,</hi> ſaith <hi>Matthew</hi> chap. 1.23. And when he was born in <hi>Bethlehem</hi> of his Mother, the virgin <hi>Mary,</hi> as was proph<gap reason="illegible" resp="#PDCC" extent="3 letters">
                         <desc>•••</desc>
                      </gap>ed of alſo by <hi>Micha,</hi> chap. 5.2. Even the very Place where he was to be <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -1980,7 +1986,7 @@ us,</hi> ſaith <hi>Matthew</hi> chap. 1.23. And when he was born in <hi>Bethleh
                   <p n="2">§. 2. Now I ſhall proceed to more expreſs Teſtimonies of the New Teſtament, that do emphatically prove this Truth, That the Eternal <hi>Logos</hi> or Son of God, was made Fleſh in the fullneſs of time. <hi>John</hi> in the beginning of his Goſpel, doth declare, <hi>That the Word was in the beginning,</hi> that is, the Eternal Son of God, and he was God, and with God his Father. And in <hi>v.</hi> 14. of this firſt Chapter he expreſly ſays, <hi>And the Word was made fleſh and dwelt amongſt us, and we ſaw his Glory as the Glory of the only begotten Son of God,</hi> &amp;c. This is ſo expreſs, that it were enough, if I had no more proofs to prove it. But I have more The Apoſtle <hi>Paul, Rom.</hi> 1.<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>. ſaith, <hi>That he was made of the ſeed of</hi> David <hi>according to the Fleſh, viz.</hi> He was not Fleſh until he
-<pb n="46" facs="tcp:000908_0089_0FACA0A8A0A9B1C0"/>
+<pb n="46" facs="unknown:000908_0089_0FACA0A8A0A9B1C0"/>
 was made of <hi>Davids</hi> ſeed, which after <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> was, being made <gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -2047,7 +2053,7 @@ was made of <hi>Davids</hi> ſeed, which after <gap reason="illegible" resp="#PD
                      </gap>, by the aſſumptio<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap> of humane Nature to his Perſon, in ſuch wiſe that there were two whole and intire Natures united together in Chriſt Jeſus, yet
-<pb n="47" facs="tcp:000908_0090_0FACA0A962705C48"/>
+<pb n="47" facs="unknown:000908_0090_0FACA0A962705C48"/>
 they made but one whol<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap> and intire and per<g ref="char:EOLhyphen"/>fect Perſon, for although he rem<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2077,7 +2083,7 @@ they made but one whol<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>〈◊〉</desc>
                      </gap>, follow.</p>
                   <p>
-                     <pb n="48" facs="tcp:000908_0091_0FACA0AA20AF7A38"/>
+                     <pb n="48" facs="unknown:000908_0091_0FACA0AA20AF7A38"/>
                      <hi>Concluſion.</hi> Th<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>refore th<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2130,7 +2136,7 @@ they made but one whol<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      </gap>d into fleſh; then it is <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>
-                     <pb n="49" facs="tcp:000908_0092_0FACA0AAE132B010"/>
+                     <pb n="49" facs="unknown:000908_0092_0FACA0AAE132B010"/>
 lawful to infer it from the Apoſtle <hi>John,</hi> or rather more lawful, becauſe I make him my Preſident in this thing. But if by <hi>turned,</hi> they underſtand it in ſuch a ſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>ce, that the <hi>Word, viz.</hi> Gods eternal Son) by virtue thereof did really, trully and prope<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -2167,7 +2173,7 @@ lawful to infer it from the Apoſtle <hi>John,</hi> or rather more lawful, becau
                         <desc>•</desc>
                      </gap>ſh.</p>
                   <p>
-                     <pb n="50" facs="tcp:000908_0093_0FACA0ABA0CFB438"/>But if our Saviour, (who could have ſo done, if he had pleaſed) had added the ſub<g ref="char:EOLhyphen"/>ſtance of Wine unto the ſubſtance of Water, and by virtue of a perfect Union of theſe two ſubſtances, had made one perfect ſubſtance, retaining two perfect Natures in one and the ſame perfect Subſtance, conſiſting both of Wine and Water, in ſuch ſort that one could have truly and properly ſaid, the Wine was truly Water, and the Water truly Wine, both in colour and reliſh, and both of them made but one perfect and entire ſubſtance. This would have given u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <pb n="50" facs="unknown:000908_0093_0FACA0ABA0CFB438"/>But if our Saviour, (who could have ſo done, if he had pleaſed) had added the ſub<g ref="char:EOLhyphen"/>ſtance of Wine unto the ſubſtance of Water, and by virtue of a perfect Union of theſe two ſubſtances, had made one perfect ſubſtance, retaining two perfect Natures in one and the ſame perfect Subſtance, conſiſting both of Wine and Water, in ſuch ſort that one could have truly and properly ſaid, the Wine was truly Water, and the Water truly Wine, both in colour and reliſh, and both of them made but one perfect and entire ſubſtance. This would have given u<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap> light into this Myſtry, how two perfect and entire Natures make but one perfect and entire Perſon. But further, ſeeing the Apoſtle ſaith, That Chriſt did par<g ref="char:EOLhyphen"/>take of the ſubſtance of Father and Mother, <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
@@ -2182,7 +2188,7 @@ lawful to infer it from the Apoſtle <hi>John,</hi> or rather more lawful, becau
                      </gap>ather and Mother, conjunct or concreet. So likewiſe muſt we conceive of Chriſt, that he is not a compleat or perfect Saviour in the abſ<gap reason="illegible" resp="#PDCC" extent="3 letters">
                         <desc>•••</desc>
                      </gap>ct, but in the concreet, <hi>viz.</hi> the Natures conſubſtantiated, but not tranſubſtantiated,
-<pb n="51" facs="tcp:000908_0094_0FACA0AC626150B8"/>
+<pb n="51" facs="unknown:000908_0094_0FACA0AC626150B8"/>
                      <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>wo Natures being made one Su<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2240,7 +2246,7 @@ lawful to infer it from the Apoſtle <hi>John,</hi> or rather more lawful, becau
                </div>
             </div>
             <div n="6" type="chapter">
-               <pb n="52" facs="tcp:000908_0095_0FACA0AD58603FE8"/>
+               <pb n="52" facs="unknown:000908_0095_0FACA0AD58603FE8"/>
                <head>CHAP. VI.</head>
                <div n="3" type="proposition">
                   <head>Propoſition III.</head>
@@ -2294,7 +2300,7 @@ lawful to infer it from the Apoſtle <hi>John,</hi> or rather more lawful, becau
                         <desc>〈◊〉</desc>
                      </gap> Sins to God, even the Father.</p>
                   <p>
-                     <pb n="53" facs="tcp:000908_0096_0FACA0AE6B83CD10"/>
+                     <pb n="53" facs="unknown:000908_0096_0FACA0AE6B83CD10"/>
                      <hi>Concluſion.</hi> Therefore <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>e that dyed upon <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2367,7 +2373,7 @@ lawful to infer it from the Apoſtle <hi>John,</hi> or rather more lawful, becau
                         <desc>••</desc>
                      </gap>ripture.</p>
                   <p>
-                     <pb n="54" facs="tcp:000908_0097_0FACA0AEA3844130"/>Mat. 1.23 <hi>And they ſhall call his Name</hi> Im<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <pb n="54" facs="unknown:000908_0097_0FACA0AEA3844130"/>Mat. 1.23 <hi>And they ſhall call his Name</hi> Im<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>manuel, <hi>which being interpreted is, God with us</hi> and this was the Virgins Son. <hi>Mat</hi> 4 <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -2424,7 +2430,7 @@ lawful to infer it from the Apoſtle <hi>John,</hi> or rather more lawful, becau
                      <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>
-                     <pb n="55" facs="tcp:000908_0098_0FACA0AF64CD2098"/>
+                     <pb n="55" facs="unknown:000908_0098_0FACA0AF64CD2098"/>
 31 <hi>That Man, the Lord of Glory.</hi> 1 Cor. 2 8. <hi>Prince of Life.</hi> Acts 3.15. <hi>who was crucified and killed. Iſaiah</hi> propheſied of this child, and told, his Name ſhould be called, <hi>The Mighty God,</hi> Iſa. 9 6. The Angel teſtifies, <hi>That he is Christ the Lord,</hi> Luke 1.43. <hi>Mary</hi> his Mother calls him <hi>God her Saviour,</hi> Luke 1.47. <hi>Th<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>refore her Soul did magnifie him the Lord, and her Spirit did rejoyce in him.</hi> Again, he is ſaid to be <hi>God our Saviour,</hi> 1 <hi>Tim.</hi> 1.1. <hi>Tit.</hi> 2.13 he is ſtiled <hi>The great God. Rev.</hi> 1.8. he is called, <hi>The Almighty.</hi> Whence the great Apoſtle and Evangeliſt <hi>John,</hi> in the be<g ref="char:EOLhyphen"/>ginning of his Goſpel, as an Antidote to ex<g ref="char:EOLhyphen"/>pel the Poyſon of <hi>Ebbians</hi> Hereſie, doth affirm, <hi>That he was in the beginning with God</hi> (his Fa<g ref="char:EOLhyphen"/>ther) <hi>and was God,</hi> John 1.1. Wherefore the great Apoſtle of the <hi>Gentiles</hi> doth d<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2432,7 +2438,7 @@ lawful to infer it from the Apoſtle <hi>John,</hi> or rather more lawful, becau
                      </gap>aw the Concluſion for me, in two particular places, That he that ſhed his Blood for the the ſins of the World, was God, yea, as God he did ſo ſhed his Blood, <hi>Acts</hi> 20.28. 2<hi>dly,</hi> That he that laid down his Life was God, and therefore he laid it down as God, as well as Man, 1 <hi>John</hi> 3.16. <hi>Hereby perceive we the Love of God, becauſe he laid down his Life for us.</hi>
                   </p>
                   <p n="3">
-                     <pb n="56" facs="tcp:000908_0099_0FACA0B022E45B98"/>§. 3. 2<hi>dy,</hi> From acts of Worſhip given to this Man, This Man is proved to be God.</p>
+                     <pb n="56" facs="unknown:000908_0099_0FACA0B022E45B98"/>§. 3. 2<hi>dy,</hi> From acts of Worſhip given to this Man, This Man is proved to be God.</p>
                   <p>Now worſhip is due to none, but to him that is truly G<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>d.</p>
@@ -2456,7 +2462,7 @@ lawful to infer it from the Apoſtle <hi>John,</hi> or rather more lawful, becau
                            <desc>〈◊〉</desc>
                         </gap>, and worſhip him,</hi> Rev. 5.8.</p>
                   <p n="4">
-                     <pb n="57" facs="tcp:000908_0100_0FACA0CA940912F8"/>§. 4. 3<hi>dly,</hi> From the Works &amp; Miracles that he wrought, this Man is proved to be God.</p>
+                     <pb n="57" facs="unknown:000908_0100_0FACA0CA940912F8"/>§. 4. 3<hi>dly,</hi> From the Works &amp; Miracles that he wrought, this Man is proved to be God.</p>
                   <p n="1">1. <hi>This Man he commands the Winds and the Seas to be still, and they obey him,</hi> Mat 8.26.</p>
                   <p n="2">2. <hi>The Devils come out of the poſſeſſed at his Word,</hi> Mat. 8.3. Mark 9.25<g ref="char:punc">▪</g>
                   </p>
@@ -2481,7 +2487,7 @@ lawful to infer it from the Apoſtle <hi>John,</hi> or rather more lawful, becau
                   <p>Th<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>ſe Tremendious, Miraculous &amp; Amazing
-<pb n="58" facs="tcp:000908_0101_0FACA0BC2E8418A8"/>
+<pb n="58" facs="unknown:000908_0101_0FACA0BC2E8418A8"/>
 Wonders wrought and done by him alone, and never by no man elſe, do certainly prove this Man to be God.</p>
                   <p>
                      <hi>Next,</hi> I ſhall lay down ſome Arguments in further Confirmation of this Truth.</p>
@@ -2503,7 +2509,7 @@ Wonders wrought and done by him alone, and never by no man elſe, do certainly p
                      <hi>Argu.</hi> 4. He that is the firſt and the laſt, is God.</p>
                   <p>But that Perſon that hung dead upon the Croſs, was the firſt and the laſt.</p>
                   <p>
-                     <pb n="59" facs="tcp:000908_0102_0FACA0BCE7EA2F78"/>Therefore that Perſon that hung dead up<g ref="char:EOLhyphen"/>on the Croſs, was God.</p>
+                     <pb n="59" facs="unknown:000908_0102_0FACA0BCE7EA2F78"/>Therefore that Perſon that hung dead up<g ref="char:EOLhyphen"/>on the Croſs, was God.</p>
                   <p>The <hi>Aſſumption,</hi> prove from <hi>Rev.</hi> 1.17, 18. the words of Chriſt to <hi>John, Fear not, I am the firſt and the last; I am <gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>e that liveth, and was dead.</hi>
@@ -2526,7 +2532,7 @@ Wonders wrought and done by him alone, and never by no man elſe, do certainly p
                   <p>But Chriſt ſuffered, <hi>Luke</hi> 24.26, 46. <hi>Acts</hi> 17.3 1 <hi>Pet.</hi> 2.21. cap. 3.18. cap. 4.1. and dyed, <hi>Rom.</hi> 5.6.8. cap. 8.34. cap. 14.9.15. 1 <hi>Cor.</hi> 15.3.</p>
                   <p>Therefore God ſuffered and dyed, to wit, God the Son.</p>
                   <p>
-                     <pb n="60" facs="tcp:000908_0103_0FACA0BDA2970AA0"/>
+                     <pb n="60" facs="unknown:000908_0103_0FACA0BDA2970AA0"/>
                      <hi>Argu.</hi> 8. He that is God the Father's equal and fellow, is God.</p>
                   <p>But thi<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -2553,7 +2559,7 @@ Wonders wrought and done by him alone, and never by no man elſe, do certainly p
                </div>
             </div>
             <div n="7" type="chapter">
-               <pb n="61" facs="tcp:000908_0104_0FACA0BE62F0A808"/>
+               <pb n="61" facs="unknown:000908_0104_0FACA0BE62F0A808"/>
                <head>CHAP. VII. Containing twelve Objections that are brought againſt the former Doctrine of Chriſts dying, as he was God, as truly as Man. With the Anſwers to each.</head>
                <p>BUt againſt this Doctrine, That the Death of Chriſt did as truly relate to his divine as Humane Nature, there are divers Object<g ref="char:EOLhyphen"/>ions brought.</p>
                <p>
@@ -2568,11 +2574,11 @@ Wonders wrought and done by him alone, and never by no man elſe, do certainly p
                </p>
                <p n="1">1<hi>ſt.</hi> I will prove the Objection is falſe in it ſelf, and grounded upon a groſs Miſtake; and prove the contrary by Scripture.</p>
                <p>
-                  <pb n="62" facs="tcp:000908_0105_0FACA0BF22326CD0"/>Though ſome ſufferings are acts of Impo<g ref="char:EOLhyphen"/>tency and Weakneſs, yet all Sufferings are not ſuch; for (not to go ſo far back as to the Apoſtolical Ages, and ſufferings of the pri<g ref="char:EOLhyphen"/>mitive Church) never no man of Reaſon and Judgment, accounted that the Martyrs in Qu. <hi>Marys</hi> days ſuffered through impotency and weakneſs, but on the contrary<g ref="char:punc">▪</g> that which carried them through their Sufferings, was Power and Strength. But much more was Chriſt Potent and ſtrong in the very midſt of his Sufferings, and alſo in his Death; <hi>for through Death he overcame and got the Victory,</hi> Heb. 2.14. Therefore the <hi>Pſalmiſt</hi> Propheti<g ref="char:EOLhyphen"/>cally tells, <hi>That God,</hi> to wit, the Father, <hi>laid help upon one that was</hi> and is <hi>Mighty,</hi> to wit, upon his Son, <hi>Pſal.</hi> 89.19. and therefore the Prophet calls him, <hi>The Mighty God,</hi> Iſa. 9.6. And <hi>David</hi> further declares of him, <hi>That he is the Lord ſtrong and mighty in Battle,</hi> Pſal. 24.10. And hence it is that when the Earth and the Inhabitants thereof were diſſolved, he bore up the Pillars of it, <hi>even by his Death, Pſal.</hi> 75.3. And hence the Apoſtle tells, <hi>That God the Father up<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="62" facs="unknown:000908_0105_0FACA0BF22326CD0"/>Though ſome ſufferings are acts of Impo<g ref="char:EOLhyphen"/>tency and Weakneſs, yet all Sufferings are not ſuch; for (not to go ſo far back as to the Apoſtolical Ages, and ſufferings of the pri<g ref="char:EOLhyphen"/>mitive Church) never no man of Reaſon and Judgment, accounted that the Martyrs in Qu. <hi>Marys</hi> days ſuffered through impotency and weakneſs, but on the contrary<g ref="char:punc">▪</g> that which carried them through their Sufferings, was Power and Strength. But much more was Chriſt Potent and ſtrong in the very midſt of his Sufferings, and alſo in his Death; <hi>for through Death he overcame and got the Victory,</hi> Heb. 2.14. Therefore the <hi>Pſalmiſt</hi> Propheti<g ref="char:EOLhyphen"/>cally tells, <hi>That God,</hi> to wit, the Father, <hi>laid help upon one that was</hi> and is <hi>Mighty,</hi> to wit, upon his Son, <hi>Pſal.</hi> 89.19. and therefore the Prophet calls him, <hi>The Mighty God,</hi> Iſa. 9.6. And <hi>David</hi> further declares of him, <hi>That he is the Lord ſtrong and mighty in Battle,</hi> Pſal. 24.10. And hence it is that when the Earth and the Inhabitants thereof were diſſolved, he bore up the Pillars of it, <hi>even by his Death, Pſal.</hi> 75.3. And hence the Apoſtle tells, <hi>That God the Father up<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>eld the Worlds by the Word of his Power,</hi> meaning his Son: wherefore Chriſt teſtifies, <hi>That all Power in Heaven and in Earth was given to him,</hi> Mat. 28.18.</p>
                <p>
-                  <pb n="63" facs="tcp:000908_0106_0FACA0BFE1293E18"/>Whence it is, that the Prophet <hi>Iſaiah,</hi> pro<g ref="char:EOLhyphen"/>phecying of his bitter ſufferings, puts the Query, <hi>Who is this that cometh from</hi> Edom (which ſignifies <hi>Red) with dyed Garments from</hi> 
+                  <pb n="63" facs="unknown:000908_0106_0FACA0BFE1293E18"/>Whence it is, that the Prophet <hi>Iſaiah,</hi> pro<g ref="char:EOLhyphen"/>phecying of his bitter ſufferings, puts the Query, <hi>Who is this that cometh from</hi> Edom (which ſignifies <hi>Red) with dyed Garments from</hi> 
                   <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ozrah? <hi>This that is glorious in his Apparel, travelling in the greatneſs of his ſtrength?</hi> The Anſwer is turned by the Lord himſelf; <hi>I that ſpeak in Righteouſneſs, mighty to ſave,</hi> to wit, he that trod the Wine preſs alone, which was the only begotten Son of God, <hi>Iſa.</hi> 63.1, 2, <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2607,7 +2613,7 @@ Wonders wrought and done by him alone, and never by no man elſe, do certainly p
                      <desc>〈◊〉</desc>
                   </gap> of God and his Saints.</p>
                <p>
-                  <pb n="64" facs="tcp:000908_0107_0FACA0C0A1351940"/>But if our Antagoniſt <hi>J. W.</hi> ſhould make ſo bold with our Earthly Prince as he doth with the Prince of Life, he would hardly eſcape the Penalty of that offence; For what can be a greater Indignity to a Prince and Po<g ref="char:EOLhyphen"/>tentate, then to render him impotent (eſpe<g ref="char:EOLhyphen"/>cially when he is not ſo) Then much more is it a high Diſdain, a great Indignity, a foul Blaſphemy, a black Approbriety, as well as a Scurrility, to fix ſuch an Epithete upon the Wonderful Potentate of Heaven and Earth, <hi>Chriſt Jeſus.</hi> Again, if Chriſts Death and Sufferings were finite, then that which was purchaſed by the ſame (which was our Salva<g ref="char:EOLhyphen"/>tion) was finite alſo; for a finite Cauſe can never produce an infinite Effect But now our Salvation, which was purchaſed by Chriſts Death, is infinite and eternal, <hi>Rom</hi> 6.23. therefore his Death and Sufferings were ſo alſo, vertuouſly and meritoriouſly, <hi>viz</hi> an infinite and et<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="64" facs="unknown:000908_0107_0FACA0C0A1351940"/>But if our Antagoniſt <hi>J. W.</hi> ſhould make ſo bold with our Earthly Prince as he doth with the Prince of Life, he would hardly eſcape the Penalty of that offence; For what can be a greater Indignity to a Prince and Po<g ref="char:EOLhyphen"/>tentate, then to render him impotent (eſpe<g ref="char:EOLhyphen"/>cially when he is not ſo) Then much more is it a high Diſdain, a great Indignity, a foul Blaſphemy, a black Approbriety, as well as a Scurrility, to fix ſuch an Epithete upon the Wonderful Potentate of Heaven and Earth, <hi>Chriſt Jeſus.</hi> Again, if Chriſts Death and Sufferings were finite, then that which was purchaſed by the ſame (which was our Salva<g ref="char:EOLhyphen"/>tion) was finite alſo; for a finite Cauſe can never produce an infinite Effect But now our Salvation, which was purchaſed by Chriſts Death, is infinite and eternal, <hi>Rom</hi> 6.23. therefore his Death and Sufferings were ſo alſo, vertuouſly and meritoriouſly, <hi>viz</hi> an infinite and et<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>rnal Perſon did pu<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -2615,7 +2621,7 @@ Wonders wrought and done by him alone, and never by no man elſe, do certainly p
                      <desc>•</desc>
                   </gap> before.</p>
                <p>
-                  <pb n="65" facs="tcp:000908_0108_0FACA0C15FE55820"/>
+                  <pb n="65" facs="unknown:000908_0108_0FACA0C15FE55820"/>
                   <hi>Object.</hi> 2 By <hi>J. Wats. Though he which laid <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>own <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2659,7 +2665,7 @@ Wonders wrought and done by him alone, and never by no man elſe, do certainly p
                </p>
                <p>
                   <hi>Anſw.</hi> As to the firſt part of the Objection<g ref="char:punc">▪</g>
-                  <pb n="66" facs="tcp:000908_0109_0FACA0CAA5B820C0"/>
+                  <pb n="66" facs="unknown:000908_0109_0FACA0CAA5B820C0"/>
                   <gap reason="illegible" resp="#PDCC" extent="1 span">
                      <desc>〈…〉</desc>
                   </gap> Soul of our Sa<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2762,7 +2768,7 @@ Wonders wrought and done by him alone, and never by no man elſe, do certainly p
                   </gap>ſon of the Son of God <gap reason="illegible" resp="#PDCC" extent="1 span">
                      <desc>〈…〉</desc>
                   </gap>
-                  <pb n="67" facs="tcp:000908_0110_0FACA0CB22441458"/>
+                  <pb n="67" facs="unknown:000908_0110_0FACA0CB22441458"/>
                   <gap reason="illegible" resp="#PDCC" extent="3 letters">
                      <desc>•••</desc>
                   </gap>rnity; <hi>I</hi> ſay then we can no more ſay to ſpeak properly) that the Perſon of the Son of God, which was from Eternity, was in Paradi<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2812,7 +2818,7 @@ Wonders wrought and done by him alone, and never by no man elſe, do certainly p
                      <desc>〈…〉</desc>
                   </gap> the Body.</p>
                <p>
-                  <pb n="68" facs="tcp:000908_0111_0FACA0CBE399EC10"/>But that only <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="68" facs="unknown:000908_0111_0FACA0CBE399EC10"/>But that only <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>he fleſh of our Lord ſuffered, is <gap reason="illegible" resp="#PDCC" extent="1 span">
                      <desc>〈…〉</desc>
@@ -2911,7 +2917,7 @@ Wonders wrought and done by him alone, and never by no man elſe, do certainly p
                   </gap>hriſt, neither <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> like unto it, but darkens it, and makes it more obſcure than it is in it ſelf; for this
-<pb n="69" facs="tcp:000908_0112_0FACA0CCA4C67590"/>
+<pb n="69" facs="unknown:000908_0112_0FACA0CCA4C67590"/>
 Union <gap reason="illegible" resp="#PDCC" extent="1 span">
                      <desc>〈…〉</desc>
                   </gap> by reaſon of that Union, the huma<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -2949,7 +2955,7 @@ Union <gap reason="illegible" resp="#PDCC" extent="1 span">
                   </gap>h the concurring <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>nd joynt-working of his Father there-with,
-<pb n="70" facs="tcp:000908_0113_0FACA0CD6466C190"/>
+<pb n="70" facs="unknown:000908_0113_0FACA0CD6466C190"/>
                   <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> raiſing up his <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -3027,7 +3033,7 @@ Union <gap reason="illegible" resp="#PDCC" extent="1 span">
                      </gap>hich Hope we have <gap reason="illegible" resp="#PDCC" extent="1 span">
                         <desc>〈…〉</desc>
                      </gap> Author of the Soul,
-<pb n="71" facs="tcp:000908_0114_0FACA0CE2240C898"/>
+<pb n="71" facs="unknown:000908_0114_0FACA0CE2240C898"/>
                      <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>oth <gap reason="illegible" resp="#PDCC" extent="1 span">
@@ -3122,7 +3128,7 @@ Union <gap reason="illegible" resp="#PDCC" extent="1 span">
                      </gap> of this Perſon <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> Union, whatſo<g ref="char:EOLhyphen"/>ever
-<pb n="72" facs="tcp:000908_0115_0FACA0CEE1DA2EF8"/>
+<pb n="72" facs="unknown:000908_0115_0FACA0CEE1DA2EF8"/>
 may be verified of either of thoſe Na<g ref="char:EOLhyphen"/>tu<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>es, the ſame may be truly ſpoken of the who<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -3170,7 +3176,7 @@ Then <hi>Obſerve,</hi> no diſagreement in the Properties.</p>
                   </gap> that God-man could be born of <hi>Mary,</hi> an<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> therefore they ſay they do not find ſuch Expreſſions, as that <hi>Mary was the Mother of GOD, Chriſt God-man, any where but in the
-<pb n="73" facs="tcp:000908_0116_0FACA0CFA1B4FF70"/>
+<pb n="73" facs="unknown:000908_0116_0FACA0CFA1B4FF70"/>
 Popes Canons.</hi> And further argue, as they think, to prove the Doctrine abſurd, <hi>That it is Non ſence and <g ref="char:V">Ʋ</g>nſcriptural Language to tell of God bring Co-creator <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> the Father, or that God had glory with God; <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -3182,7 +3188,7 @@ Popes Canons.</hi> And further argue, as they think, to prove the Doctrine abſu
                   <g ref="char:EOLhyphen"/>tively, and implyes all whatever is worthy of, or ought to be worſhipped by us, <hi>Acts</hi> 17.29. <hi>Rom.</hi> 1.20. where <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> the ſecond Perſon in the Godhead or Trinity, being our Mediator and
-<pb n="74" facs="tcp:000908_0117_0FACA0D08089EC98"/>
+<pb n="74" facs="unknown:000908_0117_0FACA0D08089EC98"/>
 middle Perſon in the Trinity, a<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> the ſtreams and lines of divine W<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -3248,7 +3254,7 @@ middle Perſon in the Trinity, a<gap reason="illegible" resp="#PDCC" extent="1 l
                   </gap>hree Perſons is a God<g ref="char:punc">▪</g> ſo <gap reason="illegible" resp="#PDCC" extent="1 span">
                      <desc>〈…〉</desc>
                   </gap> we may truly and properly ſay, there are three Gods, <hi>viz.
-<pb n="75" facs="tcp:000908_0118_0FACA0D1E2BA0F78"/>
+<pb n="75" facs="unknown:000908_0118_0FACA0D1E2BA0F78"/>
 God the <gap reason="illegible" resp="#PDCC" extent="1 span">
                         <desc>〈…〉</desc>
                      </gap>
@@ -3326,7 +3332,7 @@ God the <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>herefore it is ſo after
-<pb n="76" facs="tcp:000908_0119_0FACA0D1F2DBF948"/>
+<pb n="76" facs="unknown:000908_0119_0FACA0D1F2DBF948"/>
                   <gap reason="illegible" resp="#PDCC" extent="1 span">
                      <desc>〈…〉</desc>
                   </gap> 
@@ -3360,7 +3366,7 @@ God the <gap reason="illegible" resp="#PDCC" extent="1 span">
                      <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>. W.</hi> for he ſaith, <hi>Our Lord Jeſus Chriſt, the ſecond Perſon in the Trinity</hi> [Then there was a firſt] <hi>did truly come down from Heaven</hi> So then, ac<g ref="char:EOLhyphen"/>cording to this, when Chriſt ſaith, <hi>He that had ſeen him, had ſeen the Father,</hi> he means,
-<pb n="77" facs="tcp:000908_0120_0FACA0D2A268CEB0"/>
+<pb n="77" facs="unknown:000908_0120_0FACA0D2A268CEB0"/>
 not that he that had thus ſeen him, had ſeen <gap reason="illegible" resp="#PDCC" extent="1 span">
                      <desc>〈…〉</desc>
                   </gap> of the Father; for, a<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -3393,7 +3399,7 @@ not that he that had thus ſeen him, had ſeen <gap reason="illegible" resp="#PD
                      <desc>〈◊〉</desc>
                   </gap> a Father·</p>
                <p>
-                  <pb n="78" facs="tcp:000908_0121_0FACA0D361158350"/>But as to the laſt part of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <pb n="78" facs="unknown:000908_0121_0FACA0D361158350"/>But as to the laſt part of <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> Objection, <hi>That Chriſt was in the Father, and the Father in him,</hi> the meaning is explained, <hi>John</hi> 17.23. <hi>viz</hi> Chriſt was in the Father as the Diſciples were in him, by a <gap reason="illegible" resp="#PDCC" extent="1 span">
                      <desc>〈…〉</desc>
@@ -3436,7 +3442,7 @@ not that he that had thus ſeen him, had ſeen <gap reason="illegible" resp="#PD
                   </gap> from this, <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap>
-                  <pb n="79" facs="tcp:000908_0122_0FACA0D421CBBBC0"/>
+                  <pb n="79" facs="unknown:000908_0122_0FACA0D421CBBBC0"/>
 becauſe a Spirit hath <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> Fleſh and Bones, and Chriſt being God, and God a Spirit, That therefore that outward Perſon, con<g ref="char:EOLhyphen"/>ſiſting of Fleſh and Bones, was not Chriſt, <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -3481,7 +3487,7 @@ becauſe a Spirit hath <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap>
-                     <pb n="80" facs="tcp:000908_0123_0FACA0D4E1A83DD0"/>
+                     <pb n="80" facs="unknown:000908_0123_0FACA0D4E1A83DD0"/>
 the ſame things.</hi> But ſo it <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap>, as the Apoſtle ſaith, they pervert theſe, as they do the other Scriptures to their own deſtruction, both <hi>Quakers</hi> and others. Therefore if they were not too proud, and would candidly hearken to me, by Gods help, I would convince both <hi>Quaker</hi> and them of their groſs Miſtake, as well as damnable Hereſie.</p>
@@ -3496,10 +3502,10 @@ the ſame things.</hi> But ſo it <gap reason="illegible" resp="#PDCC" extent="1
                <p>
                   <hi>Anſw.</hi> Yes, this is poſſible that a Spirit can dye; for Chriſt is ſaid to be the quickening Spirit, 1 <hi>Cor.</hi> 15.45. and Chriſt dyed, <hi>Rom.</hi> 5.6, 8. therefore it is poſſible for a Spirit to dye.</p>
                <p n="3">
-                  <pb n="81" facs="tcp:000908_0124_0FACA0D5A5DE2EF0"/>3<hi>dly,</hi> But as to thoſe Scriptures which <hi>J. W.</hi> brings in his Argument, to prove that Chriſt did not dye; <hi>becauſe Chriſt is God,</hi> &amp; <hi>God is a Spirit, and a Spirit hath not fleſh and bones, J. Wats</hi> concluſion muſt naturally follow, That therefore that outward and viſible Perſon that <hi>Thomas</hi> handled his hands and his feet, con<g ref="char:EOLhyphen"/>ſiſting of Fleſh (Blood) and bones, was not Chriſt. This is, I preſume, the natural con<g ref="char:EOLhyphen"/>ſequence of his Argument.</p>
+                  <pb n="81" facs="unknown:000908_0124_0FACA0D5A5DE2EF0"/>3<hi>dly,</hi> But as to thoſe Scriptures which <hi>J. W.</hi> brings in his Argument, to prove that Chriſt did not dye; <hi>becauſe Chriſt is God,</hi> &amp; <hi>God is a Spirit, and a Spirit hath not fleſh and bones, J. Wats</hi> concluſion muſt naturally follow, That therefore that outward and viſible Perſon that <hi>Thomas</hi> handled his hands and his feet, con<g ref="char:EOLhyphen"/>ſiſting of Fleſh (Blood) and bones, was not Chriſt. This is, I preſume, the natural con<g ref="char:EOLhyphen"/>ſequence of his Argument.</p>
                <p>And becauſe he hath baſely abuſed and per<g ref="char:EOLhyphen"/>verted thoſe Scriptures, to patch and piece this his vile Argument together, I ſhall en<g ref="char:EOLhyphen"/>deavour to undeceive his unwary Reader, and to rectifie that miſtake, and ſhew the Truth of the ſaid Scriptures.</p>
                <p>As to the <hi>firſt, That Chriſt is true God,</hi> 1 Joh. 5.20 I need ſay nothing to that. But as to the next, <hi>That God is a Spirit,</hi> Joh. 4.24. Hence men would infer as though (to ſpeak with Reverence) God were a meer nothing, becauſe our Saviour ſaith to the Woman of <hi>Samaria,</hi> God is a Spirit. It ſeems <hi>J. Wats</hi> and others would gather from hence, that God was not a perſon, but only a Breath, or Air, every where preſent alike. But this our Saviour ſpeaks not in oppoſition to Per<g ref="char:EOLhyphen"/>ſon, but in oppoſition to the carnal and legal
-<pb n="82" facs="tcp:000908_0125_0FACA0D667796090"/>
+<pb n="82" facs="unknown:000908_0125_0FACA0D667796090"/>
 Conceptions and groſs Miſaprehenſions of many <hi>Jews,</hi> as well as <hi>Samaritans,</hi> of ſome particular Prophecies, <hi>Iſa.</hi> 2.3. <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> alluding to Goſpel<g ref="char:punc">▪</g> worſhip, which they did (through miſ<g ref="char:EOLhyphen"/>take) conceive was to be confined unto the lit<g ref="char:EOLhyphen"/>teral <hi>Jeruſalem,</hi> as though God would except of no Worſhip, but what was performed in that City, as appears by the words of the <hi>Sama<g ref="char:EOLhyphen"/>ritan</hi> Woman <hi>to our Saviour, Joh.</hi> 4 2<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -3510,7 +3516,7 @@ Conceptions and groſs Miſaprehenſions of many <hi>Jews,</hi> as well as <hi>S
                      <desc>•</desc>
                   </gap>lical (not Legal) wor<g ref="char:EOLhyphen"/>ſhip is performed to him, in Spirit and in Truth.</p>
                <p n="2">
-                  <pb n="83" facs="tcp:000908_0126_0FACA0D7270E69C0"/>2<hi>dly,</hi> The next place which <hi>J. W.</hi> perverts, i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="83" facs="unknown:000908_0126_0FACA0D7270E69C0"/>2<hi>dly,</hi> The next place which <hi>J. W.</hi> perverts, i<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> 
                   <hi>Luke</hi> 24.39. the words of our Saviour to his Diſciples to rect, <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -3520,7 +3526,7 @@ Conceptions and groſs Miſaprehenſions of many <hi>Jews,</hi> as well as <hi>S
                      </gap>eet,</hi> in which were the print of the nails, where<g ref="char:EOLhyphen"/>with he was nailed to the croſs<g ref="char:punc">▪</g> and evident token that he was him, and a convinccing argument, that it was not a Spirit. And further to confirm them, that it was himſelf riſen from the dead, and not a Spirit, he bids them handle him; and the reaſon is, that thereby they might be certified that he was not a Spirit, as they ſuppoſed; For a Spirit could not be ſo handled, neither had it Fleſh and Bones, as they ſaw him to have. Now then the next thing to be enquired into, is, What a ſort of Spirit this is, which is here ſpoken, of which the Diſciples did ſuppoſe our Saviour to be? It muſt be ſuch a kind, of Spirit that did uſe to appear ſometimes, in the primitive Age, and therefore our Saviour, when he walked on the <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ea, was deemed to be ſuch a Spirit, <hi>Mat</hi> 14.26. by thoſe that were in the Ship; and thoſe were ſuch a kind
-<pb n="84" facs="tcp:000908_0127_0FACA0D91C94B620"/>
+<pb n="84" facs="unknown:000908_0127_0FACA0D91C94B620"/>
 of Spirits, that the Apoſtle diſtinguiſheth from A<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>g<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -3572,7 +3578,7 @@ of Spirits, that the Apoſtle diſtinguiſheth from A<gap reason="illegible" res
                      <desc>〈◊〉</desc>
                   </gap>.</p>
                <p>
-                  <pb n="85" facs="tcp:000908_0128_0FACA0D968511350"/>Hence it appears to be a grand abuſe put upon the ſacred Scriptures, to bring this place, <hi>Luke</hi> 24.39. about Spirits, and par<g ref="char:EOLhyphen"/>rallel it with that in <hi>John</hi> 4.24 making there<g ref="char:EOLhyphen"/>by God to be ſuch a Spirit as this ſuppoſed one, and ſo equalize the Creator with the Creature, and to make the Scriptures claſh and contradict themſelves (which is very grateful to Atheiſts) ſurely is very impious work; and ſo to argue from particulars to univerſals, That becauſe ſome Spirit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="85" facs="unknown:000908_0128_0FACA0D968511350"/>Hence it appears to be a grand abuſe put upon the ſacred Scriptures, to bring this place, <hi>Luke</hi> 24.39. about Spirits, and par<g ref="char:EOLhyphen"/>rallel it with that in <hi>John</hi> 4.24 making there<g ref="char:EOLhyphen"/>by God to be ſuch a Spirit as this ſuppoſed one, and ſo equalize the Creator with the Creature, and to make the Scriptures claſh and contradict themſelves (which is very grateful to Atheiſts) ſurely is very impious work; and ſo to argue from particulars to univerſals, That becauſe ſome Spirit<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> have not fleſh and bones, therefore no Spirits have. This is no good arguing or reaſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
@@ -3589,7 +3595,7 @@ of Spirits, that the Apoſtle diſtinguiſheth from A<gap reason="illegible" res
                <p>The Apoſtle <hi>Peter</hi> ſaith, in effect. <hi>That whoſoever denyes the Lord that bought them, they bring in damnable Hereſies.</hi>
                </p>
                <p>
-                  <pb n="86" facs="tcp:000908_0129_0FACA0DA240540A0"/>But the outward and viſible Perſon<g ref="char:punc">▪</g> conſiſt<g ref="char:EOLhyphen"/>ing of Fleſh and Bones, was Chriſt, true God, the Lord that bought us.</p>
+                  <pb n="86" facs="unknown:000908_0129_0FACA0DA240540A0"/>But the outward and viſible Perſon<g ref="char:punc">▪</g> conſiſt<g ref="char:EOLhyphen"/>ing of Fleſh and Bones, was Chriſt, true God, the Lord that bought us.</p>
                <p>Therefore they that ſhall deny this, they bring in damnable Hereſies, denying the Lord that bought us. But this <hi>J. Watts</hi> and his faction, and all that juſtifie him, have done, Therefore, <hi>&amp;c.</hi>
                </p>
                <p>Object. 11. <hi>It was his Body (or humane Na<g ref="char:EOLhyphen"/>ture) which was prepared to do his Fathers Wi<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -3603,14 +3609,14 @@ of Spirits, that the Apoſtle diſtinguiſheth from A<gap reason="illegible" res
                   <hi>Anſw</hi> The holy Ghoſt doth not intend at all by this phraſe, <hi>A Body haſt thou prepared me,</hi> that therefore nothing of the ſubſtance of that Body was Divine, and from Eternity; for although the Son of God did really take a ſubſtance of the Virgin <hi>Mary,</hi> which he had not from Eternity, which after this his aſſump<g ref="char:EOLhyphen"/>tion or Incarnation, was eſſential to his Body, as well as Soul, by which meant he was made fleſh, yet notwithſtanding his Body and Soul did conſiſt of pre-exi<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>tant matter and ſub<g ref="char:EOLhyphen"/>ſtance, which was divine &amp; eternal; neither do the words here imply as though his Body was here intended abſtractively from his Soul,
-<pb n="87" facs="tcp:000908_0130_0FACA0DAE49AE920"/>
+<pb n="87" facs="unknown:000908_0130_0FACA0DAE49AE920"/>
 no more than elſe-where it is ſaid by the Pro<g ref="char:EOLhyphen"/>phet, <hi>The Lord</hi> (to wit, his Father made his Soul an Offering for ſin, doth imply, his body i<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> excluded from being an Offering, <hi>Iſa.</hi> 53.<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>0. but the whole Perſon of the Son of God is there included, to wit, that fourth Perſon that appeared in <hi>Nebuchadnezars</hi> Furnace, is the Body here ſpoken of, that is thus prepared for ſufferings. Hence then, in this expreſſion or phraſe [<hi>A Body</hi>] is a peculiar Emphaſis, and hath a particular alluſion to the Sacrifices under the Law, to wit, the Bodies of Beaſts, <hi>Heb.</hi> 13.11. for every High-Prieſt under the Law was ordained to offer Gifts &amp; Sacrifices, wherefore it was neceſſary that this Man, to wit, the Son of God, ſhould have ſome-what to offer (becauſe he was a Prieſt, not after the order of <hi>Aaron,</hi> but after the Order of <hi>Melchizadeck</hi> made a Prieſt forever, <hi>Heb.</hi> 8.4. <hi>chap.</hi> 6.20<g ref="char:punc">▪</g> 
                   <hi>chap.</hi> 10.4.10. Now then, his Offering or Sacrifice was not to be any Bodies or Body of a Beaſt as it was under the Law, which could never take away ſin (nor make him that did the ſervice perfect, as pertaining to the Conſciences, <hi>Heb</hi> 9.9. but his own Body, <hi>viz.</hi> his own Perſon or his own ſelf, whom God, even his Father, had thus fitted and prepared for Sufferings, that he might
-<pb n="88" facs="tcp:000908_0131_0FACA0DBA3645938"/>
+<pb n="88" facs="unknown:000908_0131_0FACA0DBA3645938"/>
 be the one Attonement, <hi>Rom.</hi> 5.11. <hi>The One Sacrifice,</hi> Heb. 10.12. <hi>The One Offering,</hi> v. 14. And thus the ſame Apoſtle explains himſelf in divers places of the ſame Epiſtle, <hi>Heb.</hi> 7.27. <hi>W<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>o.</hi> (meaning Chriſt) <hi>needeth not daily, as thoſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -3620,7 +3626,7 @@ be the one Attonement, <hi>Rom.</hi> 5.11. <hi>The One Sacrifice,</hi> Heb. 10.1
                      </gap>eing then it was impoſſible</hi> (as the Apoſtle ſaith) <hi>that the Blood of Bulls and Goats ſhould take away ſin,</hi> Heb. 10.4. yet it was the Will of God the Father nevertheleſs, that ſins ſhould be taken away by one Sacrifice, that ſhould be the ſubſta<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ce of, and put an end to all thoſe Typical ones. Therefore the Kingly Prophet. <hi>David</hi> fore-ſeeing this by the Spirit of Pro<g ref="char:EOLhyphen"/>phecy,
-<pb n="89" facs="tcp:000908_0132_0FACA0DC6233D818"/>
+<pb n="89" facs="unknown:000908_0132_0FACA0DC6233D818"/>
 perſonating the Son of God<g ref="char:punc">▪</g> as he was <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> Type of the ſame, phraſeth it after this manner, <hi>Pſal.</hi> 40.6. <hi>Sacrifices and Offerings thou wouldst not,</hi> &amp;c. The Apoſtle a<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -3637,7 +3643,7 @@ perſonating the Son of God<g ref="char:punc">▪</g> as he was <gap reason="ill
                      </gap> bigneſs, could be in a Virgins Womb?</hi>
                </p>
                <p>
-                  <pb n="90" facs="tcp:000908_0133_0FACA0DD21628628"/>
+                  <pb n="90" facs="unknown:000908_0133_0FACA0DD21628628"/>
                   <hi>Anſw.</hi> Theſe ſort of Objectors are rather to be termed Cavelle<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>s with and Carpers at the Omnipreſcency of God; they would mea<g ref="char:EOLhyphen"/>ſure &amp; limit Gods Power by their own ſhallow Capacities. But in ſhort, all things are poſ<g ref="char:EOLhyphen"/>ſible with God. They may as well ſa<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -3652,7 +3658,7 @@ perſonating the Son of God<g ref="char:punc">▪</g> as he was <gap reason="ill
                      <hi>Reaſon</hi> 2. Neither could he be a Mediator, if (as <hi>J. Watts</hi> ſaith) <hi>the Manhood only ſuffered,</hi> becauſe he is not a Mediator ſimply as he is Man, but as he is both God and Man</p>
                   <p>
                      <hi>Reaſon</hi> 3. Neither in that Conſideration could he be a Perſon, becauſe he took not a Perſon of <hi>Mary,</hi> but brought his Perſon from
-<pb n="91" facs="tcp:000908_0134_0FACA0DDE02D55D0"/>
+<pb n="91" facs="unknown:000908_0134_0FACA0DDE02D55D0"/>
 Heaven, as <hi>J. W.</hi> doth grant, but he did not bring his Manhood from Heaven.</p>
                   <p>
                      <hi>Reaſon</hi> 4. If that that ſuffered was only the humane Nature, and that humane Nature was a Perſon, and yet another Perſon came from Heaven, this would make two Chriſts.</p>
@@ -3675,7 +3681,7 @@ Heaven, as <hi>J. W.</hi> doth grant, but he did not bring his Manhood from Heav
                         <desc>•</desc>
                      </gap> 
                      <hi>Joh.</hi> 5.7. <hi>Theſe Three are One,</hi> But when or wherever, we find added unto the ſame, ſuch Official Epethites, Notes and Signes, which do plainly and familiarly <hi>ſhow</hi> to which Per<g ref="char:EOLhyphen"/>ſon
-<pb n="92" facs="tcp:000908_0135_0FACA0DEA186F260"/>
+<pb n="92" facs="unknown:000908_0135_0FACA0DEA186F260"/>
 it doth belong, and that ſuch Offici<gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
                      </gap> Titles, Epethites and Attributes cannot po<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -3707,7 +3713,7 @@ it doth belong, and that ſuch Offici<gap reason="illegible" resp="#PDCC" extent
                   </p>
                   <p>All which places belong to the Son of God abſolutely &amp; properly, &amp; cannot be appro<g ref="char:EOLhyphen"/>priated to the Father, without Violence done to Gods Word, as will appear from theſe following Reaſons.</p>
                   <p n="1">1<hi>ſt, The King of Iſrael,</hi> is Jeſus Chriſt the Son, becauſe he being the Son of <hi>David,</hi> was right Heir to the Crown of <hi>Judah,</hi> even of that temporal Kingdom, whence he is ſo ſtiled, as well as that he remains to be King of ſpiritual <hi>Iſrael</hi>; and he is reigning on the Anti-typical Throne of his Father <hi>David,</hi> and he ſhall reign over the Houſe of <hi>Jacob</hi> for<g ref="char:EOLhyphen"/>ever, and of his Kingdom there ſhall be no
-<pb n="93" facs="tcp:000908_0136_0FACA0E027279710"/>
+<pb n="93" facs="unknown:000908_0136_0FACA0E027279710"/>
                      <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap>. This <hi>Nathaniel</hi> doth confirm, ſaying <gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -3778,7 +3784,7 @@ it doth belong, and that ſuch Offici<gap reason="illegible" resp="#PDCC" extent
                         </gap>dren of Wrath, Epheſ.</hi> 2.<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>. But <hi>Iſrael's</hi>
-                     <pb n="94" facs="tcp:000908_0137_0FACA0E0E9100DF0"/>
+                     <pb n="94" facs="unknown:000908_0137_0FACA0E0E9100DF0"/>
 God delivers <hi>Iſrael</hi> from the Wrath to co<gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
                      </gap> 1 <hi>Theſ.</hi> 1.10. and reconciles both <hi>Jews</hi> 
@@ -3863,7 +3869,7 @@ God delivers <hi>Iſrael</hi> from the Wrath to co<gap reason="illegible" resp="
                         <desc>••</desc>
                      </gap>.</p>
                   <p n="1">
-                     <pb n="95" facs="tcp:000908_0138_0FACA0E1A2616440"/>1. Becauſe the Father was never viſibly and perſonally in the preſence of any Mortal, as before; but this Angel of the Lord was ſeen by, are preſent with <hi>Moſes</hi> in the Buſh, and in the Mount.</p>
+                     <pb n="95" facs="unknown:000908_0138_0FACA0E1A2616440"/>1. Becauſe the Father was never viſibly and perſonally in the preſence of any Mortal, as before; but this Angel of the Lord was ſeen by, are preſent with <hi>Moſes</hi> in the Buſh, and in the Mount.</p>
                   <p n="2">2. The Father was never an Angel or Meſſenger to no<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>e; but this was an Angel or Meſſenger of the Lord, to wit, of the Father.</p>
@@ -3896,7 +3902,7 @@ God delivers <hi>Iſrael</hi> from the Wrath to co<gap reason="illegible" resp="
                   <p n="7">7<hi>thly, The Lord of</hi> Iſrael, <hi>Deut.</hi> 6.4. is <gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
                      </gap>tended of the Son, 1. Becauſe he that re<g ref="char:EOLhyphen"/>veals
-<pb n="96" facs="tcp:000908_0139_0FACA0E261374008"/>
+<pb n="96" facs="unknown:000908_0139_0FACA0E261374008"/>
 the Father unto <hi>Iſrael,</hi> is <hi>Iſraels</hi> Lord, and he alone; <hi>But the Son doth reveal the Father, Mat.</hi> 11 27. and he alone. Therefore the Son is <hi>Iſraels</hi> Lo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>d, or the one Lord, and alſo the one God of <hi>Iſrael.</hi> 2. Becauſe the Kingly Prophet <hi>David</hi> diſtinguiſheth <hi>Iſraels</hi> Lord from the Father, by <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -3907,7 +3913,7 @@ the Father unto <hi>Iſrael,</hi> is <hi>Iſraels</hi> Lord, and he alone; <hi>B
                </div>
             </div>
             <div n="8" type="chapter">
-               <pb n="97" facs="tcp:000908_0140_0FACA0E32613D168"/>
+               <pb n="97" facs="unknown:000908_0140_0FACA0E32613D168"/>
                <head>CHAP. VIII. Containing a <hi>Corollary, 1.</hi> Of <hi>John Wat's</hi> De<g ref="char:EOLhyphen"/>nyal of ſeveral Fundamental and Christian Doctrines. <hi>2.</hi> His groſs and foul Contradi<g ref="char:EOLhyphen"/>ctions. <hi>3.</hi> His abominable and vile Hereſies. As alſo ſome Obſervations of <hi>G. Keiths</hi> falſe Doctrines, his unjuſt dealings with the <hi>Quakers,</hi> and herein he is proved to be one with them in the main Points controverted, as alſo many groſs <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>bſurdities that follow at the Tail of this Doctrine.</head>
@@ -3921,7 +3927,7 @@ the Father unto <hi>Iſrael,</hi> is <hi>Iſraels</hi> Lord, and he alone; <hi>B
                         <desc>•</desc>
                      </gap>y ſeven fundamental and evangelical Truths.</p>
                   <p>Now whoſoever ſhall deny any fundamental Truth or Truths, are Hereticks, as <hi>Elias Keech</hi>
-                     <pb n="98" facs="tcp:000908_0141_0FACA0E3E0DEBFC8"/>
+                     <pb n="98" facs="unknown:000908_0141_0FACA0E3E0DEBFC8"/>
 defines Hereſie. But ſo hath J. W. &amp; his <hi>factio<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>
@@ -3970,7 +3976,7 @@ defines Hereſie. But ſo hath J. W. &amp; his <hi>factio<gap reason="illegible"
                   <p n="3">3. His abominable and vile Hereſies, which J. W. hath avouched and broa<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>hed in his Ma<g ref="char:EOLhyphen"/>nuſcripts,
-<pb n="99" facs="tcp:000908_0142_0FACA0E4A78BD338"/>
+<pb n="99" facs="unknown:000908_0142_0FACA0E4A78BD338"/>
 as well as thoſe Contradictions before mentioned, as I am ready to prove out of the ſame at any time, by Gods permiſſion.</p>
                   <p n="1">1. <hi>Chriſt is an impotent and finite Creature.</hi>
                   </p>
@@ -3996,7 +4002,7 @@ as well as thoſe Contradictions before mentioned, as I am ready to prove out of
                         <desc>〈…〉</desc>
                      </gap>.</p>
                   <p n="4">
-                     <pb n="100" facs="tcp:000908_0143_0FACA1972206EC18"/>4 He that doth not believe in Chriſt he is an <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <pb n="100" facs="unknown:000908_0143_0FACA1972206EC18"/>4 He that doth not believe in Chriſt he is an <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>nfidel. But J. W. doth not believe in Chriſt. <hi>Ergo.</hi>
                   </p>
@@ -4033,7 +4039,7 @@ as well as thoſe Contradictions before mentioned, as I am ready to prove out of
                      </gap> that doth deny the Lord that bought <gap reason="illegible" resp="#PDCC" extent="1 span">
                         <desc>〈…〉</desc>
                      </gap> damnable Hereſie, 2 <hi>Pet.</hi>
-                     <pb n="101" facs="tcp:000908_0144_0FACA197E30F47E0"/>
+                     <pb n="101" facs="unknown:000908_0144_0FACA197E30F47E0"/>
 2.1. But J. W. doth deny the Lord that bought us. Therefore he doth bring in dam<g ref="char:EOLhyphen"/>nable Hereſie.</p>
                   <p n="9">9. He that doth bring in damnable Hereſie, is certainly a Heretick. But J. W. doth bring in damnable Hereſie. Therefore he is a Heretick.</p>
                </div>
@@ -4064,13 +4070,13 @@ as well as thoſe Contradictions before mentioned, as I am ready to prove out of
                         </gap> not</hi> And again, in the ſame page, <hi>That fleſh <gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>hat is groſs, mortal and corruptible, is not that fleſh that ſhall be raiſed up Immortal and Incor<g ref="char:EOLhyphen"/>ruptible.</hi>
-                     <pb n="102" facs="tcp:000908_0145_0FACA198A751E330"/>
+                     <pb n="102" facs="unknown:000908_0145_0FACA198A751E330"/>
 And pag. 111. he denyes that the Saints after the Reſurrection ſhall have a <hi>Belly or Outs</hi> (as he courſely words it.) And this Doctrine of G. K<hi>'s</hi> doth exactly agree, for length and breadth, with <hi>W. P.</hi> about the Re<g ref="char:EOLhyphen"/>ſurrection, <hi>Reaſ. against Railing,</hi> pag. 153. where he doth ingenuouſly confeſs, in the Name of the <hi>Quakers, That they do deny the Reſurrection of the natural and corruptible Body,</hi> as G. K. doth. Now G. K. in his 3<hi>d Narrat.</hi> calls this a Fundamental Doctrine of the Chri<g ref="char:EOLhyphen"/>ſtian Faith, <hi>viz.</hi> the Reſurrection of the Body that dyes; and becauſe the <hi>Quakers</hi> do not own it, he judges them Hereticks, and yet he doth d<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>ny it himſelf; which is very unreaſon<g ref="char:EOLhyphen"/>able dealing; and upon this very occaſion the Apoſtle doth affirm, <hi>That ſuch a man is inex<g ref="char:EOLhyphen"/>cuſeable,</hi> Rom. 2.1. nay, he goes further, and tells, <hi>In that the judgeth another, he condemns himſelf</hi>; for if it be not mortal, then it doth not dye. But ſo he ſaith, <hi>The mortal fleſh is not that fleſh that ſhall be raiſed up Immortal.</hi> Hence G. K. denys the Reſurrection of the Body that dyes, which he himſelf ſets down for one of the four Fundamental Chriſtian Doctrines, 3<hi>d Narrative.</hi>
                   </p>
                   <p n="3">3<hi>dly,</hi> He doth deny that there is any know<g ref="char:EOLhyphen"/>ledge of God, in theſe words, p. 110. of the
-<pb n="103" facs="tcp:000908_0146_0FACA19964C5AA70"/>
+<pb n="103" facs="unknown:000908_0146_0FACA19964C5AA70"/>
 ſaid Book, <hi>God can neither be ſeen nor known with the Eyes of Mens minds or of their Bodies,</hi> contrary to theſe Scriptures; <hi>Mat.</hi> 5.8. <hi>John</hi> 17.3.</p>
                   <p n="4">4<hi>thly,</hi> He doth not believe the outward Perſon to be the proper Son of God.</p>
                   <p n="1">1<hi>ſt,</hi> Becauſe he holds for Doctrine (3<hi>d<g ref="char:punc">▪</g> narrative, p.</hi> 6.) <hi>The Eternal Word,</hi> (which is Chriſt the proper Son of God) <hi>to be the Light within.</hi> For there he tel<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -4084,13 +4090,13 @@ And pag. 111. he denyes that the Saints after the Reſurrection ſhall have a <h
                      </gap>ot ſufficient. Now foraſmuch as the Eternal Word is Gods proper Son, and none elſe, which <hi>G. K.</hi> dares not deny, and that he deems is the Light within. Then he cannot believe that the outward Perſon is the proper Son of God, becauſe the Light within cannot be an outward Perſon; and then herein he is one with <hi>W. P.</hi>
                   </p>
                   <p n="2">
-                     <pb n="104" facs="tcp:000908_0147_0FACA19A22659A60"/>2<hi>dly,</hi> Becauſe in <hi>p.</hi> 15. of his 3<hi>d. Narrative,</hi> He chargeth <hi>G. W.</hi> of oppoſing this Doctrine, <hi>That Chriſts Manhood did conſiſt of a created Soul and Body.</hi> But I preſume <hi>G. K.</hi> doth not deal juſtly with <hi>G. W.</hi> For <hi>G. W.</hi> I ſuppoſe, doth believe erroniouſly as <hi>G. K.</hi> doth, That the outward Perſon Jeſus did conſiſt of a created Soul and Body (which <hi>G. K.</hi> calls the Manhood) and this I preſume <hi>G. W.</hi> 
+                     <pb n="104" facs="unknown:000908_0147_0FACA19A22659A60"/>2<hi>dly,</hi> Becauſe in <hi>p.</hi> 15. of his 3<hi>d. Narrative,</hi> He chargeth <hi>G. W.</hi> of oppoſing this Doctrine, <hi>That Chriſts Manhood did conſiſt of a created Soul and Body.</hi> But I preſume <hi>G. K.</hi> doth not deal juſtly with <hi>G. W.</hi> For <hi>G. W.</hi> I ſuppoſe, doth believe erroniouſly as <hi>G. K.</hi> doth, That the outward Perſon Jeſus did conſiſt of a created Soul and Body (which <hi>G. K.</hi> calls the Manhood) and this I preſume <hi>G. W.</hi> 
                      <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> never deny. But that which <hi>G. W.</hi> doth op<g ref="char:EOLhyphen"/>poſe is this, <hi>That the outward Perſon Jeſus was Chriſt.</hi> And this <hi>G. K.</hi> cannot believe nei<g ref="char:EOLhyphen"/>ther, Becauſe he holds that outward Perſon to be a m<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>er Creature, in affirming that he did conſiſt of a created Soul and Body (which makes a Perſon) which Chriſt the 2d Perſon in the Trinity cannot do. For if ſo, there would be two Perſons which were Chriſts, <hi>viz.</hi> two Chriſts; For the Divine Nature did not aſſume a Humane Perſon, but a Divine Perſon which was the 2d. Perſon in the Tri<g ref="char:EOLhyphen"/>nity, the eternal Son of God, did aſſume a Humane nature, <hi>viz.</hi> The true Nature of a Humane Body and Soul, although not a Body and a Soul. Now then, the ſecond Perſon in the Trinity is Gods proper Son, to wit, Chriſt the Eternal Word, and none but he. But ſuch was the outward Perſon Jeſus, <hi>Ergo.</hi>
-                     <pb n="105" facs="tcp:000908_0148_0FACA19B8C1189E0"/>
+                     <pb n="105" facs="unknown:000908_0148_0FACA19B8C1189E0"/>
 Now unleſs <hi>G. K.</hi> believes this; his belief is <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> one with <hi>G. W.</hi> and <hi>W. P.</hi> in the point. But this he cannot do, becauſe he ſaith before <hi>That the Eternal Word is the Light within</hi>; and <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -4114,7 +4120,7 @@ Now unleſs <hi>G. K.</hi> believes this; his belief is <gap reason="illegible" 
                         </gap>eſas,</hi> i. e. <hi>I was Co-exiſtent &amp; Co-efficient.</hi> This indeed one might tell <hi>G. K.</hi> as he doth <hi>T. E.</hi> (but with greater reaſon) <hi>pag.</hi> 15. <hi>Is a ſilly Sophiſm<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>,</hi> for to bring
-<pb n="106" facs="tcp:000908_0149_0FACA19BA3C4B530"/>
+<pb n="106" facs="unknown:000908_0149_0FACA19BA3C4B530"/>
 this place to prove from the Septuagint there were not two Agents, when as it proves the contrary, according to <hi>G. K</hi>'s interpretation of it; for ſaith he, the Participle <hi>Co</hi> ſig<g ref="char:EOLhyphen"/>nifieth <hi>Simul, viz. joyntly,</hi> or <hi>togethe<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>,</hi> an<g ref="char:EOLhyphen"/>ſwering to the Greek particle <hi>(Sun.)</hi> And then he which is Co-creator, muſt needs be Creator together with another, or elſe the p<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -4142,11 +4148,11 @@ this place to prove from the Septuagint there were not two Agents, when as it pr
                      </gap> he be angry with either <hi>Quaker</hi> or <hi>So<g ref="char:EOLhyphen"/>cini<gap reason="illegible" resp="#PDCC" extent="2 letters">
                            <desc>••</desc>
                         </gap>?</hi> for if he will not allow the <hi>Quaker</hi> &amp; <hi>Socinian</hi> conſequence to be true, then he jumps in his Judgment with them; for that it is
-<pb n="107" facs="tcp:000908_0150_0FACA19C63380590"/>
+<pb n="107" facs="unknown:000908_0150_0FACA19C63380590"/>
 which they are for, as well as <hi>Sebellius</hi> and <hi>Muggleton, That there was but one ſingle Agent that had any hand in the Creation.</hi> And hence it is that neither <hi>Sabellius, Socinus</hi> nor <hi>Quaker</hi> will allow that that outward Perſon was Gods proper Son, becauſe they do not believe he had any ſuch; and this G.K. doth not believe neither; ſeeing he doth deny there were two diſtinct Agents. For he that doth deny that there were two diſtinct Agents in the Creation of the World, doth thereby deny a Trinity of Perſons; for if there were not two diſtinct Agents, then there could not be two diſtinct Perſons, and conſequently not three, becauſe every diſtinct Perſon in the Trinity is a di<g ref="char:EOLhyphen"/>ſtinct Agent. And ſo it follows, that G. K. holds only a diſtinction in Name and Manife<g ref="char:EOLhyphen"/>ſtation; and this himſelf ſaith, in the ſame page, is the <hi>Sabellian Hereſie.</hi> And again, if there were not two diſtinct Agents, then not two diſtinct Perſons, as before, and conſe<g ref="char:EOLhyphen"/>quently no eternal and natural Son of God, as <hi>Socinus</hi> and <hi>Sabellius</hi> will have it. And then it will follow, that the Word was never Incar<g ref="char:EOLhyphen"/>nate, giving the lye to the Apoſtle <hi>John, cap.</hi> 1.14. And again, it will follow, that the outward Perſon was not Gods proper Son, as VV. P. will have it; or elſe he muſt hold that the VVord was the Father, and he was incar<g ref="char:EOLhyphen"/>nate; and this G. K. ſa<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>th in the ſame page,
-<pb n="108" facs="tcp:000908_0151_0FACA19D20A77F40"/>
+<pb n="108" facs="unknown:000908_0151_0FACA19D20A77F40"/>
 was the Error of the <hi>Patripaſſions.</hi> And fur<g ref="char:EOLhyphen"/>ther, it is denyed by this means, that the Word was Creator with the Father, and that God had glory with God, <hi>&amp;c.</hi> and that God had a Father; and all this is blamed by G. K. in G. W. as erronious, becauſe he blame<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap> theſe expreſſions in the <hi>Baptiſts.</hi>
@@ -4166,7 +4172,7 @@ was the Error of the <hi>Patripaſſions.</hi> And fur<g ref="char:EOLhyphen"/>t
                         </gap> and Spirit of a Man from the beginning, &amp; that this did come down from Heaven, and tabernacled in a Body of fl<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>ſh</hi> (as he ſaith) <hi>and that the eternal Word did not ſimply come down from Hea<g ref="char:EOLhyphen"/>ven,</hi> Truth advanced<g ref="char:punc">▪</g> p 64, 65. from which it appears plainly, that G. K. doth not be<g ref="char:EOLhyphen"/>lieve that the outward Perſon Jeſus was the eternal VVord or proper Son of God, no more than <hi>W P. Socinus</hi> or <hi>Sabellius.</hi> But
-<pb n="109" facs="tcp:000908_0152_0FACA19DE31C8680"/>
+<pb n="109" facs="unknown:000908_0152_0FACA19DE31C8680"/>
                      <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>ne might make ſo bold to ask G. K. What <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -4223,7 +4229,7 @@ was the Error of the <hi>Patripaſſions.</hi> And fur<g ref="char:EOLhyphen"/>t
                      </gap>wed before, he ſaith, the <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> will not riſe: What other Members we ſhall not have then, which we have now, he
-<pb n="110" facs="tcp:000908_0153_0FACA19EA93A13C0"/>
+<pb n="110" facs="unknown:000908_0153_0FACA19EA93A13C0"/>
 doth not tell, only he ſaith, they will differ, as alſo in our form and figure; and there i<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap> reaſon for it, ſeeing he ſaith, <hi>We ſhall have <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -4238,7 +4244,7 @@ doth not tell, only he ſaith, they will differ, as alſo in our form and figure
                      </gap> two different Creations of Man<g ref="char:punc">▪</g> both with reſpect to the different Matter of which they have been created, as alſo with reſpect unto the different Times when they were created. From whence it will follow that we are no kin<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap> to <hi>Adam,</hi> but are of a ſecond order of Crea<g ref="char:EOLhyphen"/>tion, which was of a more baſer ſtuff; there<g ref="char:EOLhyphen"/>fore well may G. K. call our Bodies <hi>Oar, Groſs, &amp;c.</hi> and deem them not worthy of eter<g ref="char:EOLhyphen"/>nal Reward, by denying them a Reſurrection,
-<pb n="111" facs="tcp:000908_0154_0FACA19F647A68D0"/>
+<pb n="111" facs="unknown:000908_0154_0FACA19F647A68D0"/>
 excepting its being turned into Vegetables, and ſo riſe again, ſeeing as he deems) they do not conſiſt of the ſame matter &amp; ſubſtance as <hi>Adams</hi> Body did.</p>
                   <p n="2">2. He holds it for an Error, <hi>That the Gar<g ref="char:EOLhyphen"/>den or Paradiſe where God placed Man, when he made him, was ſome part of this viſible Earth, Truth Adv.</hi> p. 16, 25. <hi>but was that Paradiſe up into which</hi> Paul <hi>was caught, which was the</hi> 3<hi>d Heaven,</hi> p 17.</p>
                   <p n="3">3. The Garden of <hi>Eden</hi> he holds to be <hi>C<gap reason="illegible" resp="#PDCC" extent="3 letters">
@@ -4254,7 +4260,7 @@ excepting its being turned into Vegetables, and ſo riſe again, ſeeing as he d
                   <p n="9">9. The <hi>Cloathing</hi> where-with God cloathed <hi>Adam</hi> and <hi>Eve</hi> after the fall, <hi>was the skin and fleſh of this frail and corruptible Body,</hi> which he calleth, <hi>a Shell, Priſon, Cave, Dungeon, Oar or Mine,</hi> p. 27.</p>
                   <p n="10">
                      <pb n="112"
-                         facs="tcp:000908_0155_0FACA1A023A5BB80"
+                         facs="unknown:000908_0155_0FACA1A023A5BB80"
                          rendition="simple:additions"/>10. He holds, <hi>that God took a whole ſide</hi> 
                      <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
@@ -4291,7 +4297,7 @@ excepting its being turned into Vegetables, and ſo riſe again, ſeeing as he d
                   <head>
                      <hi>§. 4.</hi> Here follows divers groſs Abſurdities that do naturally ſpring from the aforeſaid Do<g ref="char:EOLhyphen"/>ctrines.</head>
                   <p n="1">1. If Paradiſe were the eternal Word, as G. K. will have it, then <hi>Adam</hi> was to dreſs
-<pb n="113" facs="tcp:000908_0156_0FACA1A0E3A26BD8"/>
+<pb n="113" facs="unknown:000908_0156_0FACA1A0E3A26BD8"/>
 and keep the eternal Word; which is abſurd.</p>
                   <p>
                      <hi>Note,</hi> G. K. is very uncertain about Para<g ref="char:EOLhyphen"/>diſe, what it is, ſometimes he thinks it is Chriſt, at another time the third Heaven; and then again, the new Earth.</p>
@@ -4304,11 +4310,11 @@ and keep the eternal Word; which is abſurd.</p>
                         </gap>e</hi> a<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>d the <hi>Tree of knowledge of Good and Evil,</hi> both in Chriſt, they muſt both belong to Chriſt, and then there is in Chriſt good Food and evil; and then it follows, that <hi>G. K.</hi> hath taught us to eat of the forbidden Fruit, when he preached amongſt us, <hi>That whole Chriſt muſt be ſpiritually eaten, as the Paſchal Lamb was na<g ref="char:EOLunhyphen"/>turally.</hi>
-                     <pb n="114" facs="tcp:000908_0157_0FACA1A1A143ABB8"/>
+                     <pb n="114" facs="unknown:000908_0157_0FACA1A1A143ABB8"/>
 All which is very abſurd, as well as reproachful to Chriſt.</p>
                   <p n="5">5. If the Soul of Man receives not its being by humane Generation (as G. K ſaith) then by the ſame parity of Reaſon one might ſay, the Body doth not neither. But if G. K de<g ref="char:EOLhyphen"/>nyes this conſequence, and will have it that the Body doth, but the Soul doth not. Then I may argue, according to G. K. that Bodies are capable of generating and propogating without Souls. But G. K. being a Philoſo<g ref="char:EOLhyphen"/>pher, might have remembered better this Rule in Natural Philoſophy, <hi>viz. Every like begets its like.</hi> Now according to the Rule, if a Body only be begotten, then it was only a Body that did beget it, in which Gignation the Soul was not active or concerned, and then dead Bodies may multiply and increaſe Bodies as well as live ones. Theſe are foul and groſs Abſurdities.</p>
                   <p n="6">6. Again, if by the Precept enjoyned to Man and Woman in Paradiſe, <hi>Be fruitful and multiply,</hi> &amp;c. <hi>Gen.</hi> 1.28. be to be underſtood only with reſpect to the multiplication of Bodies, and not of Souls, then by the ſame parity of Reaſon, we muſt underſtand the ſame words which relate to the multiplication of Fiſh and Fowl, with reſpect only to their
-<pb n="115" facs="tcp:000908_0158_0FACA1A2617AEC40"/>
+<pb n="115" facs="unknown:000908_0158_0FACA1A2617AEC40"/>
 Bodies, and not of Souls; and then it will <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap>, that the Spirits of Fiſh and Fowl, as <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -4350,7 +4356,7 @@ Bodies, and not of Souls; and then it will <gap reason="illegible" resp="#PDCC" 
                      <desc>〈◊〉</desc>
                   </gap> an abſtract of Humane Authorities.</head>
                <p>WHich I produce not for any proof, but by way of Illuſtration only, they may be of weight with ſome, and it may be manifeſt that not only
-<pb n="116" facs="tcp:000908_0159_0FACA1A320848238"/>
+<pb n="116" facs="unknown:000908_0159_0FACA1A320848238"/>
 Scripture Authority, but even Antiqui<gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap> ſelf, which is ſo much boaſted of, is for great Truth.</p>
@@ -4407,7 +4413,7 @@ Scripture Authority, but even Antiqui<gap reason="illegible" resp="#PDCC" extent
                   </gap> Churches were of the contrary <gap reason="illegible" resp="#PDCC" extent="1 span">
                      <desc>〈…〉</desc>
                   </gap>
-                  <pb n="117" facs="tcp:000908_0160_0FACA1A3E0F604D0"/>
+                  <pb n="117" facs="unknown:000908_0160_0FACA1A3E0F604D0"/>
 he calls a Lyar &amp; Anti-chriſt, 1 <hi>John</hi> 
                   <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -4471,7 +4477,7 @@ he calls a Lyar &amp; Anti-chriſt, 1 <hi>John</hi>
                      </gap>.</hi>
                </p>
                <p n="3">
-                  <pb n="118" facs="tcp:000908_0161_0FACA1A4A184CB98"/>§. 3. <hi>The Teſtimonies of the Protest<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <pb n="118" facs="unknown:000908_0161_0FACA1A4A184CB98"/>§. 3. <hi>The Teſtimonies of the Protest<gap reason="illegible" resp="#PDCC" extent="3 letters">
                         <desc>•••</desc>
                      </gap> Churches ſince the Re<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -4533,7 +4539,7 @@ he calls a Lyar &amp; Anti-chriſt, 1 <hi>John</hi>
                      <desc>••</desc>
                   </gap>ture alſo.</p>
                <p>
-                  <pb n="119" facs="tcp:000908_0162_0FACA1A56052EED0"/>Again, p. 276. he queries thus, <hi>Why muſt this God and M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="119" facs="unknown:000908_0162_0FACA1A56052EED0"/>Again, p. 276. he queries thus, <hi>Why muſt this God and M<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>n be one Perſon?</hi> He anſwers, <hi>Becauſe if each Nature were a diſtinct Perſon, <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
@@ -4553,7 +4559,7 @@ he calls a Lyar &amp; Anti-chriſt, 1 <hi>John</hi>
 <q>Whilſt this Man, (meaning Jeſus) was put to death, crucified, the true and only Son of God was likewiſe crucified.</q>
                   <hi>Note,</hi> This <hi>Ed. Portlock,</hi> Prieſt of <hi>Philadelphia</hi> ſaith, is Blaſphemy.</p>
                <p>
-                  <pb n="120" facs="tcp:000908_0163_0FACA1A6235253F0"/>P 201. He ſaith,
+                  <pb n="120" facs="unknown:000908_0163_0FACA1A6235253F0"/>P 201. He ſaith,
 <q>God, according to the litteral ſence of Scriptures, was in latter ages to be incarnate, and to converſe with Men.</q>
 P. 232.
 <q>That God was to viſit his Temple after ſuch a viſible and perſonal manner, as the Prophet <hi>Jeremiah</hi> in his Name had done.</q>
@@ -4564,7 +4570,7 @@ P. 249.
                            <desc>•</desc>
                         </gap>
                      </hi> only, but within the divine Nature it ſelf. P. 264. Jeſus Chriſt the Son of God, who not only us, but the <hi>Socinians</hi> grant, was truly co<g ref="char:EOLhyphen"/>eternal to God the Father. P. 305 When it is ſaid, the Son of God was made of a Woman, this implyes that he was truly fleſh
-<pb n="121" facs="tcp:000908_0164_0FACA1A6E1799480"/>
+<pb n="121" facs="unknown:000908_0164_0FACA1A6E1799480"/>
 of the Womans fleſh, and bon<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap> 
@@ -4602,7 +4608,7 @@ Again, <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>radle to the Croſs, and from the Croſs to the Throne again.</q> P. 134.<q> This is wonderful (ſaith he) the Lord of Life ſhould dye, and the great God become a Babe, and the eternal Word not able to ſpeak a word.</q> P. 65. <q>He's the <hi>The<g ref="char:EOLhyphen"/>antropos,</hi> the God-Man.</q>
 P. 64. thus he
-<pb n="122" facs="tcp:000908_0165_0FACA1A7A1C8B268"/>
+<pb n="122" facs="unknown:000908_0165_0FACA1A7A1C8B268"/>
 argues, <q>None can be eternal but God. But Chriſt is eternal, therefore Chriſt is God</q> Pag.
 71.<q> He who made Man b<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -4625,7 +4631,7 @@ P. 160. in anſwer to this Queſtion, <q>
 I take him to mean him, to wit, that Perſon that dyed on the Croſs. And then, according to <hi>Edw. Portlock,</hi> Prieſt of <hi>Philadelphia,</hi> Bp. <hi>
                      <g ref="char:V">Ʋ</g>ſher</hi> is a great Blaſphemer. But it may be he will tell me, I may hang Bp. <hi>
                      <g ref="char:V">Ʋ</g>ſher,</hi> as he told me and <hi>T. R.</hi> in his own houſe, we might hang
-<pb n="123" facs="tcp:000908_0166_0FACA1A861C829B0"/>
+<pb n="123" facs="unknown:000908_0166_0FACA1A861C829B0"/>
                   <hi>Sam. Clark</hi> and <hi>Dr. Hammond</hi> about our neck<g ref="char:punc">▪</g> A very odd expreſſion for a learned ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> to uſe<g ref="char:punc">▪</g>
@@ -4692,7 +4698,7 @@ I take him to mean him, to wit, that Perſon that dyed on the Croſs. And then, 
                      <desc>••</desc>
                   </gap> Death.</p>
                <p>
-                  <pb n="124" facs="tcp:000908_0167_0FACA1A922212308"/>In their <hi>Te Deum laudamus,</hi> thus they con<g ref="char:EOLhyphen"/>feſs, <hi>Thou art the King of Glory, O Christ! thou art the everlaſting Son of the Father; when thou tookeſt upon thee to deliver Man, thou didſt not abhor the Virgins Womb; when thou hadst overcome the ſharpneſs of Death<g ref="char:punc">▪</g> thou didſt open the Kingdom of Heaven to all Believers.</hi>
+                  <pb n="124" facs="unknown:000908_0167_0FACA1A922212308"/>In their <hi>Te Deum laudamus,</hi> thus they con<g ref="char:EOLhyphen"/>feſs, <hi>Thou art the King of Glory, O Christ! thou art the everlaſting Son of the Father; when thou tookeſt upon thee to deliver Man, thou didſt not abhor the Virgins Womb; when thou hadst overcome the ſharpneſs of Death<g ref="char:punc">▪</g> thou didſt open the Kingdom of Heaven to all Believers.</hi>
                </p>
                <p>From whence obſerve two things, 1<hi>ſt,</hi> The Everlaſting Son of the Father did not abhor the Virgins Womb 2<hi>dly.</hi> That the everlaſt<g ref="char:EOLhyphen"/>ing Son of the Father did overcome the ſharpneſs of Death, and conſequently the everlaſting Son of the Fathe<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -4703,7 +4709,7 @@ I take him to mean him, to wit, that Perſon that dyed on the Croſs. And then, 
                   </gap>iſt, he ſaith thus, <hi>Though the Word was truly and really God, yet he was not God the Father.</hi> Again, <hi>p.</hi> 30. <hi>The Word was God, not God the Father. Note</hi> then, Then the Word which is God, and not the Father, and the Father which is God, and not the Word, make two diſtinct Gods perſonally, according to the Biſhop of <hi>Can<g ref="char:EOLhyphen"/>terbury.</hi>
                </p>
                <p>
-                  <pb n="125" facs="tcp:000908_0168_0FACA1A9E1B0C568"/>Now I ſhall proceed to inſert ſome Teſti<g ref="char:EOLhyphen"/>monies of the <hi>Baptized People,</hi> who, as they are the moſt ſound, and neareſt to Chriſt of any other (as we know of) in the due and right performance of his bleſſed Ordinances, ſo alſo in relation to the Perſon of Chriſt (ſome of them) they do a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="125" facs="unknown:000908_0168_0FACA1A9E1B0C568"/>Now I ſhall proceed to inſert ſome Teſti<g ref="char:EOLhyphen"/>monies of the <hi>Baptized People,</hi> who, as they are the moſt ſound, and neareſt to Chriſt of any other (as we know of) in the due and right performance of his bleſſed Ordinances, ſo alſo in relation to the Perſon of Chriſt (ſome of them) they do a<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ſert the T<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -4719,7 +4725,7 @@ I take him to mean him, to wit, that Perſon that dyed on the Croſs. And then, 
                      </gap>t it no Robbery to be equal with God to be in the form of a Servant, and lie in a Manger! to ſee him w<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>o made the Creature, to be trod under foot of the Creature, &amp;c.</hi> Pag. 77
-<pb n="126" facs="tcp:000908_0169_0FACA1AAA2B3D9A0"/>
+<pb n="126" facs="unknown:000908_0169_0FACA1AAA2B3D9A0"/>
 thus, <hi>And ſince it was i<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>finite Juſtice our ſins had wronged, and <gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -4770,7 +4776,7 @@ thus, <hi>And ſince it was i<gap reason="illegible" resp="#PDCC" extent="1 lett
                            <desc>•</desc>
                         </gap>s Habitation make,</l>
                      <l>
-                        <pb n="127" facs="tcp:000908_0170_0FACA1AB61692578"/>We do deny to be the Chriſt, yet I</l>
+                        <pb n="127" facs="unknown:000908_0170_0FACA1AB61692578"/>We do deny to be the Chriſt, yet I</l>
                      <l>Affirm Christ Jeſus is the Lord most high,</l>
                      <l>Or the eternal God of ſtrength and might,</l>
                      <l>Who doth alone dwell in the glorious Light,</l>
@@ -4833,7 +4839,7 @@ thus, <hi>And ſince it was i<gap reason="illegible" resp="#PDCC" extent="1 lett
                      </gap> Father.</hi>
                </p>
                <p>
-                  <pb n="128" facs="tcp:000908_0171_0FACA1AC207B27B0"/>Thus having finiſhed my Teſtimonies, there comes an Objection in my way, which I muſt anſwer.</p>
+                  <pb n="128" facs="unknown:000908_0171_0FACA1AC207B27B0"/>Thus having finiſhed my Teſtimonies, there comes an Objection in my way, which I muſt anſwer.</p>
                <p>Object. <hi>However you may improve many of theſe Sayings of the</hi> Church of England, <hi>t<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap> juſtifie this Doctrine, and condemn the contrary, yet they have another meaning, which will wel<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -4862,7 +4868,7 @@ thus, <hi>And ſince it was i<gap reason="illegible" resp="#PDCC" extent="1 lett
                   </gap> to be the true Religion, according to the <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap>
-                  <pb n="129" facs="tcp:000908_0172_0FACA1ACE258C920"/>
+                  <pb n="129" facs="unknown:000908_0172_0FACA1ACE258C920"/>
 of one of their own Teachers; <hi>That Relig<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>on <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -4907,7 +4913,7 @@ of one of their own Teachers; <hi>That Relig<gap reason="illegible" resp="#PDCC"
                   <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>hors back; but let them appear openly and publickly before the Authors face, even in the Light, <hi>viz.</hi> in the face of the world, (if
-<pb n="130" facs="tcp:000908_0173_0FACA1ADA1D51648"/>
+<pb n="130" facs="unknown:000908_0173_0FACA1ADA1D51648"/>
 they are bent for oppoſition<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> and refute <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -4952,7 +4958,7 @@ they are bent for oppoſition<gap reason="illegible" resp="#PDCC" extent="1 lett
                   </gap> Propoſals be taking, and yet they will <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap>
-                  <pb n="131" facs="tcp:000908_0174_0FACA1AE61B83F78"/>
+                  <pb n="131" facs="unknown:000908_0174_0FACA1AE61B83F78"/>
                   <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>eceive and imbrace the Doctrine, then I <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -4991,14 +4997,14 @@ they are bent for oppoſition<gap reason="illegible" resp="#PDCC" extent="1 lett
                      <desc>•</desc>
                   </gap>omma's,</p>
                <p>
-                  <pb n="132" facs="tcp:000908_0175_0FACA1AF24122950"/>
+                  <pb n="132" facs="unknown:000908_0175_0FACA1AF24122950"/>
                   <hi>Dilem.</hi> 1. Now they that own and believe the firſt, they deny the Incarna<g ref="char:EOLhyphen"/>tion, Death, Burial, Reſurrection and Aſcention of Chriſt.</p>
                <p>They that own and believe the ſecond, they do own and believe that God was Incarnate, dead, buried, raiſed from the dead, and aſcended into Heaven, becauſe Chriſt is God, and all this befell Chriſt, who was viſible, to wit, ſeen with Bo<g ref="char:EOLhyphen"/>dily Eyes.</p>
                <p>
                   <hi>Dilem.</hi> 2. <hi>John Wats,</hi> and others like him, muſt either believe that the out<g ref="char:EOLhyphen"/>ward Perſon was properly the Son of God, or elſe that he is not.</p>
                <p>If they believe that he is, then the proper Son of God was the ſecond Per<g ref="char:EOLhyphen"/>ſon in the Trinity, and was eternal, and alſo was a God, and the outward Perſon dyed, which was a God, according to their own belief. And then this they have condemned in me for Hereſie.</p>
                <p>Or elſe they muſt believe he was not, and then he was not the ſecond Perſon
-<pb n="133" facs="tcp:000908_0176_0FACA1AFE4464CF8"/>
+<pb n="133" facs="unknown:000908_0176_0FACA1AFE4464CF8"/>
                   <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>n the Trinit<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -5031,7 +5037,7 @@ they are bent for oppoſition<gap reason="illegible" resp="#PDCC" extent="1 lett
                   </gap>rinity, &amp; truly a God; and becauſe that viſible Man was a Perſon, and that there is but one Perſon in Chriſt, and Chriſt is the ſecond Perſon in the Trinity, which is <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ruly God, and alſo that viſible Man, and ſo, he that was a God, was a Man, and that Man dying, he that was truly
-<pb n="134" facs="tcp:000908_0177_0FACA1B0A2B6EAC8"/>
+<pb n="134" facs="unknown:000908_0177_0FACA1B0A2B6EAC8"/>
 God dyed; and this they have condemn<g ref="char:EOLhyphen"/>ed in me for Hereſie.</p>
                <p>Here they are pinched between the Door and the Hinges, and which way they will make their eſcape I cannot tell, either they muſt imbrace <hi>Quakeriſm</hi> to ſhun <hi>Chriſtianity,</hi> or they muſt imbrace <hi>Chriſtianity</hi> to ſhun <hi>Quakeriſm</hi>; and yet both of theſe they have condemned for Hereſie.</p>
                <p>The upſhot of all is this, As it was impoſſible for the <hi>Divine Nature</hi> of Chriſt to ſuffer ſtrictly in the <hi>abſtract,</hi> ſo it was impoſſible alſo for the <hi>Humane Nature</hi> to ſuffer ſo conſidered, but both together in the Concreet.</p>
